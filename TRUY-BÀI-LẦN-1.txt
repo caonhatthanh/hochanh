@@ -1,0 +1,1743 @@
+Câu 1.        t điện tích điểm q dịch chuyển t điểm M đến điểm N trong điện trường, hiệu điện thế
+giữa hai điểm là UMN        ng c a l c điện th c hiện hi điện t ch q dịch chuyển t       đến       là
+
+                                                           U MN                      q
+   A. qU MN                 B. q 2U MN               C.                      D.
+                                                            q                     U MN
+
+Câu 2. h t biểu nào sau đây đúng? Trong t trường, cảm ng t tại m t điểm
+   A. nằm theo hướng c a l c t                       B. ngược hướng với đường s c t
+   C. nằm theo hướng c a đường s c t                 D. ngược hướng với l c t
+Câu 3. Trong m t điện trường đ u c cường đ , hi m t điện t ch q dư ng di chuyển c ng chi u
+đường s c điện m t đoạn d th c ng c a l c điện là
+     qE                                                                E
+  A.                     B. qEd                   C. 2qEd          D.
+      d                                                                qd
+Câu 4.    t dây dẫn thẳng dài đặt trong không khí c dòng điện với cường đ chạy qua.      lớn cảm
+ ng t    do d ng điện này gây ra tại m t điểm c ch dây m t đoạn được t nh bởi c ng th c:
+                   r                     r                        I                            I
+   A. B  2.107 .          B. B  2.107 .           C. B  2.107 .             D. B  2.107 .
+                   I                     I                        r                            r
+Câu 5. Cho m t điện trường đ u c cường đ             h n chi u dư ng c ng chi u đường s c điện.         i
+
+U là hiệu điện thế giữa hai điểm M và N trên cùng m t đường s c, d  MN là đ dài đại số đoạn MN.
+Hệ th c nào sau đây đúng?
+            U                    U
+   A. E       .        B. E      .         C. E  Ud .          D. E  2Ud .
+            2d                   d
+Câu 6.          t đoạn dây dẫn thẳng dài ℓ c dòng điện với cường đ I chạy qua, đặt trong m t t trường
+đ u c cảm ng t                  iết đoạn dây dẫn vu ng g c với c c đường s c t và l c t t c d ng l n đoạn
+dây c đ lớn là
+         B                        Il
+A. F       .           B. F        .              C. F  BIl .               D. F  BI 2l .
+         Il                       B
+
+Câu 7.          iện dung c a t điện c đ n vị là
+   A. vôn trên mét (V/m). B. vôn nhân mét (V.m). C. culông (C).                                   D. fara (F).
+Câu 8.           t ống dây dẫn h nh tr c chi u dài ℓ g m v ng dây được đặt trong h ng h ℓ lớn h n
+nhi u so với đường             nh tiết diện ống dây             ường đ d ng điện chạy trong m i v ng dây là
+lớn cảm ng t trong l ng ống dây do d ng điện này gây ra được t nh bởi c ng th c:
+                        N                             N                                l                               l
+   A. B  4 .107        I.        B. B  4 .107      I.           C. B  4 .107     I.        D. B  4 .107        I.
+                        l                             l                                N                               N
+Câu 9.          n vị c a điện thế là
+     A. vôn (V).           B. ampe (A). C. culông (C).                 D. o t (W).
+
+
+
+Câu 10.           t dây dẫn uốn thành v ng tr n c b n                nh     đặt trong h ng h            ường đ d ng điện
+chạy trong vòng dây là I.                lớn cảm ng t do dòng điện này gây ra tại tâm c a vòng dây được tính
+bởi công th c:
+                        R                                 R                                 I                             I
+   A. B  2 .107        .              B. B  2 .107     .             C. B  2 .107     .         D. B  2 .107      .
+                        I                                 I                                 R                             R
+ Câu 11. Cho hai điện tích điểm đặt trong chân không. Khi hoảng c ch giữa hai điện tích là r thì l c
+tư ng t c điện giữa chúng c đ lớn là. F Khi hoảng c ch giữa hai điện tích là 3r thì l c tư ng t c điện
+giữa chúng c đ lớn là
+         F                                F
+   A.      .                       B.       .                        C. 3F .                            D. 9F .
+         9                                3
+Câu 12.          ặt hiệu điện thế U vào hai đ u m t đoạn mạch điện th cường đ d ng điện h ng đ i
+chạy qua đoạn mạch là                    ng suất ti u th điện năng c a đoạn mạch là
+   A. P  UI 2                      B. P  UI .                     C. P  U 2 I                  D. P  U 2 I 2
+Câu 13.           t mạch       n phẳng c diện t ch         đặt trong t trường đ u           iết vect ph p tuyến n c a
+mặt phẳng ch a mạch hợp với vect cảm ng t B m t g c                                T th ng qua diện t ch          là
+   A. Φ=          cos               B. Φ= sin                       C. Φ = cos                    D. Φ =      sin
+Câu 14.         hi d ng điện h ng đ i c cường đ                    chạy qua điện trở        th c ng suất t a nhiệt tr n
+được t nh bằng c ng th c nào sau đây?
+   A. P  R 2 I                     B. P  RI 2 .                   C. P  RI                     D. P  R2 I 2
+Câu 15.           t ngu n điện m t chi u c suất điện đ ng                 đang ph t điện ra mạch ngoài với d ng điện
+c cường đ              ng suất c a ngu n điện được t nh bằng c ng th c nào sau đây?
+  A. P  EI 2                  B. P  EI .                 C. P  E 2 I                D. P  E 2 I 2
+Câu 16.       t ngu n điện m t chi u c suất điện đ ng E đang ph t điện ra mạch ngoài với dòng điện
+c cường đ I. Công c a ngu n điện th c hiện trong hoảng thời gian t được tính bằng công th c nào
+sau đây?
+  A. A  EI 2t                 B. A  E 2 It .             C. A  EIt                  D. P  EIt 2
+Câu 17. hi d ng điện h ng đ i c cường đ                 chạy qua điện trở       trong thời gian t th nhiệt lượng
+t a ra tr n     được t nh bằng c ng th c nào sau đây
+  A. Q  RI 2t                 B. Q  RIt .                C. Q  R 2 It               D. Q  RIt 2
+Câu 18.         t hạt điện tích q0 chuyển đ ng với vận tốc v trong m t t trường đ u c cảm ng t B .
+
+ iết v hợp với B m t g c  .           lớn l c Lo - ren - x t c d ng lên q0 là
+  A. f  q0 vBcos             B. f  q0 vB tan           C. f  q0 vB cot           D. f  q0 vB sin 
+Câu 19.         t đoạn dây dẫn thẳng c chi u dài ℓ được đặt trong t trường đ u c cảm ng t B hợp
+với đoạn dây m t g c           hi cho d ng điện c cường đ          chạy trong đoạn dây th đ lớn l c t t c
+d ng l n đoạn dây là
+  A. F  IlBcos .             B. F  IlB tan  .          C. F  IlB sin  .          D. F  IlB cot  .
+Câu 20.     t vòng dây dẫn kín được đặt trong t trường Khi t thông qua vòng dây biến thiên m t
+lượng  trong m t hoảng thời gian t đ nh th suất điện đ ng cảm ng xuất hiện trong v ng dây
+là
+
+              2                          2t                         t                          
+  A. ec                      B. ec                     C. ec                     D. ec  
+               t                                                                              t
+Câu 21.         t ống dây c đ t cảm              đang c d ng điện chạy qua        hi cường đ d ng điện chạy
+trong ống dây biến thi n m t lượng i trong m t hoảng thời gian t đ nh th suất điện đ ng t
+cảm xuất hiện tring ống dây là
+                  i                           t                         t                          i
+  A. etc   L2                B. etc   L2               C. etc   L                D. etc   L
+                  t                           i                         i                          t
+Câu 22.       iện tích c a m t electron c gi trị là
+  A. 9,1.10-31 C               B. 6,1.10-19 C              C. -1,6.10-19 C             D. -1,9.10-31 C
+Câu 23.         t điện trở được m c vào hai c c c a m t ngu n điện m t chi u c suất điện đ ng               th
+hiệu điện thế giữa hai c c c a ngu n điện c đ lớn là UN Hiệu suất c a ngu n điện lúc này là
+           UN                            E                           UN                           E
+  A. H                        B. H                       C. H                       D. H 
+            E                           UN                          UN  E                      UN  E
+
+Câu 25. Hạt tải điện trong b n dẫn loại n ch yếu là
+  A. l trống                   B. electron.                C. ion dư ng                D. ion âm.
+Câu 26.       ặt m t hiệu điện thế h ng đ i U vào hai đ u m t đoạn mạch ti u th điện năng th
+cường đ d ng điện trong đoạn mạch là I Trong hoảng thời gian t, điện năng ti u th c a đoạn
+mạch là A          ng th c nào sau đây đúng?
+           Ut 2                          UI
+  A. A                         B. A                   C. A  UIt 2                   D. A  UIt
+            I                             t
+Câu 27. Hiện tượng nào sau đây được ng d ng để luyện nhôm?
+  A. Hiện tượng siêu dẫn                                B. Hiện tượng điện phân.
+  C. Hiện tượng nhiệt điện                              D. Hiện tượng đoản mạch
+Câu 28. Trong hệ SI, đ n vị c a điện tích là
+  A. vôn trên mét (V/m).         B. culông (C).         C. fara (F).                   D. vôn (V).
+Câu 29. Cho m t v ng dây dẫn             n dịch chuyển ra xa m t nam châm th trong v ng dây xuất hiện
+m t suất điện đ ng cảm ng           ây là hiện tượng cảm ng điện t              ản chất c a hiện tượng cảm ng
+điện t này là qu tr nh chuyển h a
+  A. c năng thành điện năng                             B. điện năng thành quang năng
+  C. c năng thành quang năng                            D. điện năng thành h a năng
+Câu 30. Trong hệ SI, đ n vị c a điện thế là
+  A. Vôn trên mét (V/m).         B. Vôn (V).            C. Culông (C).                 D. Fara (F)
+Câu 31.         c điện trở R vào hai c c c a m t ngu n điện m t chi u c suất điện đ ng E và điện trở
+trong r để tạo thành mạch điện           n th cường đ d ng điện trong mạch là              ng th c nào sau đây
+đúng?
+           R                              E                      E                               E
+  A. I                         B. I                   C. I                          D. I 
+           Er                            Rr                     Rr                             Rr
+Câu 32. Trong hệ SI, đ n vị c a cường đ d ng điện là
+  A. o t (W).                   B. ampe (A).            C. culông (C).                 D. vôn (V).
+Câu 33. Hiện tượng nào sau đây được ng d ng để đúc điện?
+  A. Hiện tượng nhiệt điện                              B. Hiện tượng điện phân.
+  C. Hiện tượng siêu dẫn                                D. Hiện tượng đoản mạch
+Câu 34. Trong điện trường đ u c cường đ E, hai điểm M và N cùng nằm trên m t đường s c và
+c ch nhau m t hoảng d           iết đường s c điện c chi u t              đến    , hiệu điện thế giữa M và N là
+U MN . Công th c nào sau đây đúng?
+
+                                              E                       d                          1
+  A. U MN  Ed                  B. U MN                C. U MN                       D. U MN  Ed
+                                              d                       E                          2
+Câu 35.         t điện tích điểm q dư ng được đặt trong điện trường đ u c cường đ điện trường E.
+   lớn l c điện F t c d ng l n điện t ch được tính bằng c ng th c nào sau đây?
+  A. F  qE                B. F  q 2 E             C. F  2qE             D. F  q 2 E 2
+Câu 36.           t t điện c điện dung C. Khi hiệu điện thế giữa hai bản t điện là U thì điện tích Q
+c a t điện được t nh bằng c ng th c nào sau đây?
+                                      U                        C
+  A. Q  CU                  B. Q                    C. Q                  D. Q  CU 2
+                                      C                        U
+Câu 37.       t d ng điện h ng đ i c cường đ       chạy qua điện trở . Trong hoảng thời gian t, nhiệt
+lượng Q t a ra tr n     được t nh bằng c ng th c nào sau đây?
+                                                                I                     I2
+  A. Q  R 2 It              B. Q  RI 2t             C. Q        t         D. Q       t
+                                                                R2                    R
+Câu 38.       t vật dẫn đang c d ng điện h ng đ i chạy qua Trong hoảng thời gian 𝑡, điện lượng
+di chuyển qua tiết diện thẳng c a vật dẫn là q      ường đ d ng điện I trong vật dẫn được t nh bằng
+hệ th c nào sau đây?
+                                      q                                               t
+  A. I  qt                  B. I                    C. I  2qt             D. I 
+                                      t                                               q
+Câu 39.       trống là hạt tải điện trong môi trường nào sau đây?
+  A. hất điện phân.          B. hất b n dẫn.          C. Kim loại.           D. hất khí.
+Câu 40. Hạt nào sau đây h ng phải là hạt tải điện trong chất khí?
+  A.      trống              B. Ion dư ng             C. Êlectron.           D. Ion âm.
+Câu 41. Xét m t tia s ng đi t m i trường c chiết suất n1 sang m i trường c chiết suất n2 nh h n
+ iết igh là g c giới hạn phản xạ toàn ph n     iểu th c nào sau đây đúng?
+                  n1                      n2
+  A. sin igh              B. sin igh                C. sin igh  n2  n1   D. sin igh  n1  n2
+                  n2                      n1
+
+Câu 42. Hai điện tích điểm gây ra tại điểm M hai điện trường c c c vect cường đ điện trường
+E1 và E2 . Vect cường đ điện trường t ng hợp E tại M được tính bằng công th c nào sau đây?
+
+  A. E  E1  E2           B. E  E1  E2             C. E  2E1  E2        D. E  2E1  E2
+
+Câu 43.       t vật dẫn đang c d ng điện m t chi u chạy qua Trong hoảng thời gian Δt, điện lượng
+dịch chuyển qua tiết diện thẳng c a vật dẫn là Δq        ường đ d ng điện I trong vật dẫn được tính
+bằng c ng th c nào sau đây?
+                                      q                                              t
+  A. I  qt                B. I                    C. I  2qt           D. I 
+                                      t                                              q
+Câu 44.       t vật nh dao đ ng đi u hòa c biên đ A, chu kì dao đ ng T, ở thời điểm ban đ u t0 = 0
+vật đang ở vị tr bi n Qu ng đường mà vật đi được t thời điểm ban đ u đến thời điểm t = T/4 là
+  A. A/2.                    B. 2A.                   C. A/4.                D. A.
+Câu 45. Khi đưa m t con l c đ n lên cao theo phư ng thẳng đ ng (coi chi u dài c a con l c không
+đ i th t n số dao đ ng đi u hoà c a n s
+  A. giảm v gia tốc tr ng trường giảm theo đ cao.
+  B. tăng v chu        dao đ ng đi u hoà c a n giảm
+  C. tăng v t n số dao đ ng đi u hoà c a n t lệ nghịch với gia tốc tr ng trường
+  D. h ng đ i v chu         dao đ ng đi u hoà c a n     h ng ph thu c vào gia tốc tr ng trường.
+Câu 46. h t biểu nào sau đây là sai khi n i v dao đ ng c h c?
+    A. Hiện tượng c ng hưởng s c ng hưởng xảy ra khi t n số c a ngoại l c đi u hoà bằng t n số dao
+đ ng ri ng c a hệ
+    B. Biên đ dao đ ng cưỡng b c c a m t hệ c h c hi xảy ra hiện tượng c ng hưởng s c ng
+hưởng       h ng ph thu c vào l c cản c a m i trường
+    C. T n số dao đ ng cưỡng b c c a m t hệ c h c bằng t n số c a ngoại l c đi u hoà t c d ng l n
+    hệ ấy
+    D. T n số dao đ ng t do c a m t hệ c h c là t n số dao đ ng ri ng c a hệ ấy.
+Câu 47.         t con l c đ n g m sợi dây c       hối lượng không đ ng ể, không dãn, c chi u dài ℓ và
+vi n bi nh c         hối lượng m     ch th ch cho con l c dao đ ng đi u hoà ở n i c gia tốc tr ng trường
+g    ếu ch n mốc thế năng tại vị tr cân bằng c a vi n bi th thế năng c a con l c này ở li đ g c                 c
+biểu th c là
+    A. mgℓ 1 - cos              B. mgℓ 1 - sin           C. mgℓ 3 - 2cos             D. mgℓ 1 + cos
+Câu 48. Khi xảy ra hiện tượng c ng hưởng c th vật tiếp t c dao đ ng
+    A. với t n số bằng t n số dao đ ng riêng.            B. mà h ng chịu ngoại l c t c d ng
+    C. với t n số lớn h n t n số dao đ ng riêng.         D. với t n số nh h n t n số dao đ ng riêng.
+Câu 49.         t con l c đ n được treo ở tr n m t thang m y              hi thang m y đ ng y n, con l c dao
+đ ng đi u hòa với chu kì T. Khi thang m y đi lên thẳng đ ng, chậm d n đ u với gia tốc c đ lớn
+bằng m t nửa gia tốc tr ng trường tại n i đặt thang m y th con l c dao đ ng đi u h a với chu                    T
+bằng
+                                                              T                           T
+    A. 2T .                     B. T 2 .                 C.     .                    D.      .
+                                                              2                            2
+Câu 50.       hận định nào sau đây sai hi n i v dao đ ng c h c t t d n?
+    A. ao đ ng t t d n c đ ng năng giảm d n c n thế năng biến thi n đi u hòa.
+    B. ao đ ng t t d n là dao đ ng c bi n đ giảm d n theo thời gian.
+    C.      c ma s t càng lớn th dao đ ng t t càng nhanh.
+    D. Trong dao đ ng t t d n, c năng giảm d n theo thời gian.
+Câu 51.         t con l c l xo g m vật c       hối lượng m và l xo c đ c ng , dao đ ng đi u h a                ếu
+tăng đ c ng          l n 2 l n và giảm hối lượng m đi 8 l n th t n số dao đ ng c a vật s
+  A. tăng 2 l n             B. giảm 2 l n                 C. giảm 4 l n         D. tăng 4 l n
+Câu 52.    t con l c lò xo g m viên bi nh c          hối lượng m và lò xo hối lượng không đ ng ể c đ
+c ng , dao đ ng đi u hoà theo phư ng thẳng đ ng tại n i c gia tốc r i t do là g                  hi vi n bi ở vị tr
+cân bằng, l xo d n m t đoạn Δl          hu     dao đ ng đi u hoà c a con l c này là
+              g                         l                     1    m                      1     k
+    A. 2        .              B. 2      .             C.           .              D.            .
+              l                        g                     2    k                     2     m
+Câu 53. hi n i v m t hệ dao đ ng cưỡng b c ở giai đoạn n định, ph t biểu nào dưới đây là sai?
+   A. T n số c a hệ dao đ ng cưỡng b c bằng t n số c a ngoại l c cưỡng b c
+   B. T n số c a hệ dao đ ng cưỡng b c lu n bằng t n số dao đ ng ri ng c a hệ
+   C. i n đ c a hệ dao đ ng cưỡng b c ph thu c vào t n số c a ngoại l c cưỡng b c
+   D. i n đ c a hệ dao đ ng cưỡng b c ph thu c biên đ c a ngoại l c cưỡng b c
+Câu 54.           t vật dao đ ng đi u hoà d c theo tr c x với phư ng tr nh x = Asinωt             ếu ch n gốc
+toạ đ       tại vị tr cân bằng c a vật th gốc thời gian t =    là lúc vật
+   A. ở vị tr li đ c c đại thu c ph n dư ng c a tr c Ox.
+   B. qua vị trí cân bằng       ngược chi u dư ng c a tr c Ox.
+   C. ở vị tr li đ c c đại thu c ph n âm c a tr c Ox.
+   D. qua vị tr cân bằng O theo chi u dư ng c a tr c Ox.
+Câu 55.           t vật dao đ ng đi u hoà d c theo tr c Ox, quanh vị trí cân bằng O với biên đ A và chu
+T. Trong hoảng thời gian T/4, quãng đường lớn nhất mà vật c thể đi được là
+
+   A. A.                        B. 3A/2.                  C. A 3 .                 D. A 2 .
+Câu 56.     năng c a m t vật dao đ ng đi u hòa
+  A. biến thi n tu n hoàn theo thời gian với chu bằng m t nửa chu                dao đ ng c a vật
+  B. tăng gấp đ i khi biên đ dao đ ng c a vật tăng gấp đ i
+  C. bằng đ ng năng c a vật hi vật tới vị trí cân bằng
+   D. biến thi n tu n hoàn theo thời gian với chu         bằng chu       dao đ ng c a vật
+Câu 57.           t vật dao đ ng đi u h a c chu    là T    ếu ch n gốc thời gian t =    lúc vật qua vị tr cân
+bằng, th trong nửa chu         đ u ti n, vận tốc c a vật bằng h ng ở thời điểm
+            T                            T                         T                        T
+   A. t      .                 B. t      .              C. t      .             D. t      .
+            6                            4                         8                        2
+  Câu 58. h t biểu nào sau đây là sai hi n i v dao đ ng c a con l c đ n b qua l c cản c a môi
+trường ?
+    A. hi vật nặng ở vị tr bi n, c năng c a con l c bằng thế năng c a n
+   B. huyển đ ng c a con l c t vị tr bi n v vị tr cân bằng là nhanh d n
+   C. hi vật nặng đi qua vị tr cân bằng, th tr ng l c t c d ng l n n cân bằng với l c căng c a dây.
+  D. Với dao đ ng nh th dao đ ng c a con l c là dao đ ng đi u hòa.
+Câu 59. Khi n i v năng lượng c a m t vật dao đ ng đi u h a, ph t biểu nào sau đây là đúng?
+   A.       m i chu      dao đ ng c a vật, c bốn thời điểm thế năng bằng đ ng năng
+   B. Thế năng c a vật đạt c c đại hi vật ở vị trí cân bằng
+   C.       ng năng c a vật đạt c c đại hi vật ở vị tr biên.
+   D. Thế năng và đ ng năng c a vật biến thi n cùng t n số với t n số c a li đ
+Câu 60.       h t biểu nào sau đây là đúng hi n i v dao đ ng t t d n?
+   A. ao đ ng t t d n c bi n đ giảm d n theo thời gian.
+   B.       năng c a vật dao đ ng t t d n h ng đ i theo thời gian.
+  C.        c cản m i trường t c d ng l n vật lu n sinh c ng dư ng
+  D. ao đ ng t t d n là dao đ ng ch chịu t c d ng c a n i l c
+Câu 61.          hi n i v m t vật dao đ ng đi u h a c bi n đ A và chu                            T, với mốc thời gian t =
+là lúc vật ở vị tr bi n, ph t biểu nào sau đây là sai?
+                               T
+  A. Sau thời gian               , vật đi được quảng đường bằng 0,5A.
+                               8
+                               T
+  B. Sau thời gian                 , vật đi được quảng đường bằng 2A.
+                               2
+                               T
+  C. Sau thời gian                 , vật đi được quảng đường bằng A.
+                               4
+
+  D. Sau thời gian T, vật đi được quảng đường bằng 4A.
+Câu 62.           t cật dao đ ng đi u h a d c theo tr c t a đ nằm ngang x với chu                                T, vị tr cân bằng
+và mốc thế năng ở gốc t a đ                T nh t lúc vật c li đ dư ng lớn nhất, thời điểm đ u ti n mà đ ng
+năng và thế năng c a vật bằng nhau là
+       T                                   T                              T                                T
+  A.     .                            B.     .                       C.      .                        D.     .
+       4                                   8                              12                               6
+Câu 63. Tại n i c gia tốc tr ng trường g, m t con l c đ n dao đ ng đi u hòa với biên đ g c  0 .
+ iết hối lượng vật nh c a con l c là m, chi u dài dây treo là l, mốc thế năng ở vị tr cân bằng
+năng c a con l c là
+       1                                                                  1
+  A.     mgl 02 .                    B. mgl 02 .                   C.     mgl 02 .                 D. 2mgl 02 .
+       2                                                                  4
+Câu 64.           t vật dao đ ng đi u h a c phư ng tr nh x = Acos  t +                               i v và a l n lượt là vận
+tốc và gia tốc c a vật Hệ th c đúng là:
+       v2        a2                        v2        a2                   v2       a2                      v2        a2
+  A.                  A2 .          B.                  A2 .     C.                 A2 .        D.                  A2 .
+       4        2                        2        2                   2       4                      4        4
+
+Câu 65.          hi n i v dao đ ng cưỡng b c, ph t biểu nào sau đây là đúng
+  A. ao đ ng c a con l c đ ng h là dao đ ng cưỡng b c
+  B. Biên đ c a dao đ ng cưỡng b c là bi n đ c a l c cưỡng b c
+  C. ao đ ng cưỡng b c c bi n đ                           h ng đ i và c t n số bằng t n số c a l c cưỡng b c
+  D. ao đ ng cưỡng b c c t n số nh h n t n số c a l c cưỡng b c
+Câu 66.           t vật dao đ ng đi u h a theo m t tr c cố định mốc thế năng ở vị tr cân bằng thì
+  A. đ ng năng c a vật c c đại hi gia tốc c a vật c đ lớn c c đại
+  B. hi vật đi t vị tr cân bằng ra biên, vận tốc và gia tốc c a vật lu n c ng dấu
+  C. hi ở vị tr cân bằng, thế năng c a vật bằng c năng
+  D. thế năng c a vật c c đại hi vật ở vị tr biên.
+Câu 67. Khi m t vật dao đ ng đi u h a thì
+     A. l c éo v t c d ng l n vật c đ lớn c c đại hi vật ở vị tr cân bằng
+     B. gia tốc c a vật c đ lớn c c đại hi vật ở vị tr cân bằng
+     C. l c éo v t c d ng l n vật c đ lớn t lệ với b nh phư ng bi n đ
+     D. vận tốc c a vật c đ lớn c c đại hi vật ở vị trí cân bằng
+Câu 68.              t vật dao đ ng đi u hòa với chu kì T. h n gốc thời gian là lúc vật qua vị trí cân bằng,
+vận tốc c a vật bằng           l n đ u ti n ở thời điểm
+          T                              T                         T                      T
+     A.                             B.                        C.                     D.
+          2                              8                         6                      4
+Câu 69.              t con l c l xo dao đ ng đ u h a với t n số 2f1.      ng năng c a con l c biến thi n tu n
+hoàn theo thời gian với t n số f2 bằng
+
+                                         f1
+     A. 2 f1                        B.                        C. f1                  D. 4 f1
+                                         2
+Câu 70. Tại n i c gia tốc tr ng trường g, m t con l c đ n dao đ ng đi u hòa với biên đ g c                 0
+nh        ấy mốc thế năng ở vị tr cân bằng             hi con l c chuyển đ ng nhanh d n theo chi u dư ng đến
+vị tr c đ ng năng bằng thế năng th li đ g c                 c a con l c bằng
+          0                             0                        0                         0
+     A.                             B.                        C.                     D. 
+              3                              2                     2                           3
+Câu 71.             c éo v t c d ng l n m t chất điểm dao đ ng đi u h a c đ lớn
+     A. t lệ với đ lớn c a li đ và lu n hướng v vị tr cân bằng
+     B. t lệ với b nh phư ng biên đ
+     C. h ng đ i nhưng hướng thay đ i
+     D. và hướng h ng đ i
+Câu 72.              t vật dao đ ng t t d n c c c đại lượng giảm li n t c theo thời gian là
+     A. bi n đ và gia tốc           B. li đ và tốc đ          C. bi n đ và năng lượng D. bi n đ và tốc đ
+Câu 73.            hi n i v m t vật dao đ ng đi u hòa, ph t biểu nào sau đây sai?
+     A.       c éo v t c d ng l n vật biến thi n đi u hòa theo thời gian.
+     B.        ng năng c a vật biến thi n tu n hoàn theo thời gian.
+     C. Vận tốc c a vật biến thi n đi u h a theo thời gian.
+     D.           năng c a vật biến thi n tu n hoàn theo thời gian.
+Câu 74.            hi n i v dao đ ng đi u h a, ph t biểu nào sau đây đúng?
+     A. ao đ ng c a con l c đ n lu n là dao đ ng đi u hòa.
+     B.           năng c a vật dao đ ng đi u hòa h ng ph thu c bi n đ dao đ ng
+     C. Hợp l c t c d ng lên vật dao đ ng đi u h a lu n hướng v vị tr cân bằng
+     D. ao đ ng c a con l c lò xo luôn là dao đ ng đi u hòa.
+Câu 75. Hình chiếu c a m t chất điểm chuyển đ ng tròn đ u lên m t đường kính c a quỹ đạo c
+chuyển đ ng là dao đ ng đi u h a              h t biểu nào sau đây sai?
+  A. T n số g c c a dao đ ng đi u h a bằng tốc đ g c c a chuyển đ ng tr n đ u
+  B. Tốc đ c c đại c a dao đ ng đi u h a bằng tốc đ dài c a chuyển đ ng tròn đ u
+  C. c éo v trong dao đ ng đi u h a c đ lớn bằng đ lớn l c hướng tâm trong chuyển đ ng
+  tròn đ u
+  D. i n đ c a dao đ ng đi u hòa bằng b n kính c a chuyển đ ng tr n đ u
+Câu 76. Vật dao đ ng t t d n c
+  A. pha dao đ ng lu n giảm d n theo thời gian.             B. li đ lu n giảm d n theo thời gian.
+  C. thế năng lu n giảm d n theo thời gian.                 D. c năng lu n giảm d n theo thời gian.
+Câu 77.          lệch pha c a hai dao đ ng đi u h a cung phư ng, c ng t n số và ngược pha nhau là
+                 
+  A.  2k  1        với k = 0, ±1, ±2, …                  B. (2k +1) π với    = 0, ±1, ±2, …
+                  2
+  C. 2 π với          = , ±1, ±2, …                         D. π với       = , ±1, ±2, …
+Câu 78.          t con l c đ n dao đ ng đi u hòa với biên đ g c 0. ấy mốc thế năng ở vị trí cân bằng
+Ở vị tr con l c c đ ng năng bằng thế năng th li đ g c c a n bằng
+
+          0                           0                          0                       0
+  A.                           B.                         C.                      D. 
+           3                            2                             2                      3
+Câu 79.           t chất điểm dao đ ng đi u h a tr n tr c x Vect gia tốc c a chất điểmc
+ A. đ lớn c c đại ở vị tr bi n, chi u lu n hướng ra biên.
+ B. đ lớn c c tiểu hi qua vị trí cân bằng lu n c ng chi u với vect vận tốc
+ C. đ lớn h ng đ i, chi u lu n hướng v vị tr cân bằng
+ D. đ lớn t lệ với đ lớn c a li đ , chi u lu n hướng v vị tr cân bằng
+
+Câu 80.          t vật dao đ ng t t d n c c c đại lượng nào sau đây giảm li n t c theo thời gian?
+ A. i n đ và tốc đ      B. i đ và tốc đ        C. i n đ và gia tốc D. i n đ và c năng
+Câu 81.   t vật dao đ ng đi u hòa với biên đ A và tốc đ c c đại vmax. T n số g c c a vật dao
+đ ng là
+
+       vmax                          vmax                        vmax                      vmax
+  A.                            B.                          C.                       D.
+        A                            A                          2 A                      2A
+
+Câu 82. Tại m t vị trí trên Tr i            ất, con l c đ n c chi u dài ℓ1 dao đ ng đi u hòa với chu      T1;
+con l c đ n c chi u dài ℓ2 ℓ2 < ℓ1 dao đ ng đi u h a với chu                    T2    ng tại vị tr đ , con l c
+đ n c chi u dài ℓ1 - ℓ2 dao đ ng đi u h a với chu                là
+
+
+        T1T2                                                      T1T2
+  A.                            B. T12  T22                C.                       D. T12  T22
+       T1  T2                                                   T1  T2
+Câu 83. Khi m t vật dao đ ng đi u hòa, chuyển đ ng c a vật t vị trí biên v vị trí cân bằng là chuyển
+đ ng
+  A. nhanh d n đ u         B. chậm d n đ u         C. nhanh d n           D. chậm d n
+Câu 84.     ao đ ng c a m t vật là t ng hợp c a hai dao đ ng c ng phư ng c phư ng tr nh l n lượt
+là x1=Acos t và x2 = Asin t      i n đ dao đ ng c a vật là
+  A. 3A .                  B. A.                   C. 2A .                D. 2A.
+
+Câu 85.   hi n i v m t vật đang dao đ ng đi u h a, ph t biểu nào sau đây đúng?
+  A. Vect gia tốc c a vật đ i chi u hi vật c li đ c c đại
+  B. Vect vận tốc và vect gia tốc c a vật c ng chi u nhau khi vật chuyển đ ng v ph a vị trí cân
+  bằng
+  C. Vect gia tốc c a vật lu n hướng ra xa vị tr cân bằng
+  D. Vect vận tốc và vect gia tốc c a vật c ng chi u nhau khi vật chuyển đ ng ra xa vị trí cân bằng
+Câu 86.               t vật nh dao đ ng đi u hòa theo m t quỹ đạo thẳng dài 12 cm. Dao đ ng này c biên đ
+là
+  A. 3 cm.               B. 24 cm.              C. 6 cm.               D. 12 cm.
+Câu 87. Hai dao đ ng đ u h a cùng phư ng, cùng t n số c bi n đ l n lượt là A1 =8cm, A2
+                       
+=15cm và lệch pha nhau      ao đ ng t ng hợp c a hai dao đ ng này c bi n đ bằng
+                                   2
+     A. 7 cm.                          B. 11 cm.                  C. 17 cm.               D. 23 cm.
+Câu 88.               t vật nh dao đ ng đi u h a với biên đ 4cm và chu kì 2s. Quãng đường vật đi được
+trong 4s là:
+     A. 8 cm                           B. 16 cm                   C. 64 cm                D. 32 cm
+Câu 89.                t vật nh dao đ ng đi u h a theo phư ng tr nh x  A cos10t t t nh bằng s Tại t=2s, pha
+c a dao đ ng là
+     A. 10 rad.                        B. 40 rad                  C. 20 rad               D. 5 rad
+Câu 90.               t vật dao đ ng đi u hòa với phư ng trình x = 5cosωt cm. Quãng đường vật đi được
+trong m t chu              là
+     A. 10 cm.                         B. 5 cm.                   C. 15 cm.               D. 20 cm.
+Câu 91.               t vật dao đ ng cưỡng b c dưới t c d ng c a m t ngoại l c biến thiên đi u hòa với t n số
+f. Chu         dao đ ng c a vật là
+           1                                2                                                 1
+     A.          .                     B.      .                  C. 2 f .                D.     .
+          2 f                               f                                                 f
+Câu 92. Cho hai dao đ ng đi u hòa cùng phư ng c phư ng trình x1 = 3cos10  t (cm) và x2=4cos(10  t
++ 0,5  ) (cm              ao đ ng t ng hợp c a hai dao đ ng này c bi n đ là
+     A. 1 cm.                          B. 3 cm.                   C. 5 cm.                D. 7 cm.
+Câu 93. Tại m t n i trên mặt đất c gia tốc tr ng trường g, m t con l c lò xo g m lò xo c chi u dài
+t nhiên 𝓁, đ c ng k và vật nh                   hối lượng m dao đ ng đi u hòa với t n số g c ω. Hệ th c nào sau
+đây đúng?
+                     g                              m                        k                        l
+     A.              .               B.           .           C.         .          D.          .
+                     l                              k                        m                        g
+
+Câu 94.               t chất điểm dao đ ng đi u hòa theo phư ng trình x = 4cosωt (x tính bằng cm). hất điểm
+dao đ ng với bi n đ
+     A. 8 cm.                          B. 4 cm.                   C. 2 cm.                D. 1 cm.
+Câu 95.               t con l c l xo g m l xo nh c đ c ng và vật nh                 hối lượng m      ho con l c dao
+đ ng đi u h a theo phư ng ngang                     hu    dao đ ng c a con l c là
+                 m                                 k                    1    k                  1    m
+     A. 2         .                   B. 2         .            C.           .          D.           .
+                 k                                 m                   2    m                 2    k
+Câu 96.               t vật dao đ ng t t d n c c c đại lượng giảm li n t c theo thời gian là
+      A. biên đ và năng lượng                               B. li đ và tốc đ
+      C. biên đ và tốc đ                                    D. biên đ và gia tốc
+Câu 97. Dao đ ng c a con l c đ ng h là
+  A. dao đ ng điện t     B. dao đ ng t t d n C. dao đ ng cưỡng b c D. dao đ ng duy trì.
+Câu 98.    t con l c l xo c hối lượng vật nh là m dao đ ng đi u h a theo phư ng ngang với
+phư ng tr nh x = Acos t           ốc t nh thế năng ở vị tr cân bằng           năng c a con l c là:
+                                      1                                                      1
+      A. m A2 .                 B.     m A2 .             C. m 2 A2 .                D.     m 2 A2 .
+                                      2                                                      2
+Câu 99.            t vật nh dao đ ng theo phư ng trinh x = 5cos t  0,5  cm. Pha ban đ u c a dao đ ng
+
+là:
+      A. π                       B. 0,5 π                   C. 0,25 π                   D. 1,5 π
+Câu 100.            t chất điểm dao đ ng theo phư ng tr nh x = 6cos t cm            ao đ ng c a chất điểm c
+bi n đ là:
+      A. 2 cm                    B. 6cm                     C. 3cm                      D. 12 cm
+Câu 101.            t con l c l xo g m m t vật nh      hối lượng m và l xo c đ c ng                on l c dao đ ng
+đi u h a với t n số g c là:
+              m                        m                           k                              k
+      A. 2     .                B.      .                  C.       .                  D. 2       .
+              k                        k                           m                              m
+Câu 102. Hai dao đ ng đi u h a c phư ng tr nh dao đ ng l n lượt là x1 = 5cos 2πt+ ,75π cm
+và x2 = 1 cos 2πt+ ,5π cm                    lệch pha c a hai dao đ ng này c đ lớn là:
+      A. 0,25 π                  B. 1,25 π                  C. 0,5 π                    D. 0,75 π
+Câu 103.            t chất điểm dao đ ng c phư ng trình x = 10cos(15t + π (x tính bằng cm, t tính bằng
+s       hất điểm này dao đ ng với t n số g c là
+      A. 20rad/s.                B. 10rad/s.                C. 5rad/s.                  D. 15rad/s.
+Câu 104. Tại n i c gia tốc tr ng trường g, m t con l c đ n c sợi dây dài ℓ đang dao đ ng đi u
+h a T n số dao đ ng c a con l c là
+              l                           g                       1      l                    1    g
+      A. 2     .                B. 2      .               C.             .            D.           .
+              g                           l                      2      g                   2    l
+
+Câu 105. Cho hai dao đ ng cùng phư ng, c phư ng tr nh l n lượt là: x1 = 1 cos 1                     πt- ,5π cm, x2
+= 1 cos 1          πt + ,5π cm        lệch pha c a hai dao đ ng c đ lớn là
+      A. 0.                      B. ,25π                    C. π                        D. ,5π
+Câu 106.            t con l c l xo dao đ ng đi u h a theo phư ng nằm ngang            ếu bi n đ dao đ ng tăng
+gấp đ i th t n số dao đ ng đi u h a c a con l c
+      A. tăng 2 l n              B. giảm 2 l n              C. không đ i                D. tăng 2 l n
+Câu 107.            t hệ dao đ ng c đang th c hiện dao đ ng cưỡng b c Hiện tượng c ng hưởng xảy ra khi
+  A. t n số c a l c cưỡng b c lớn h n t n số dao đ ng ri ng c a hệ dao đ ng
+  B. chu     c a l c cưỡng b c lớn h n chu           dao đ ng ri ng c a hệ dao đ ng
+  C. t n số c a l c cưỡng b c bằng t n số dao đ ng ri ng c a hệ dao đ ng
+  D. chu      c a l c cưỡng b c nh h n chu           dao đ ng ri ng c a hệ dao đ ng
+Câu 108.       t con l c lò xo g m m t vật nh        hối lượng m và lò xo c đ c ng k. Con l c dao đ ng
+đi u h a với t n số g c là
+
+
+            m                         m                          k                           k
+  A. 2       .                B.       .                 C.       .               D. 2       .
+            k                         k                          m                           m
+Câu 109.       t chất điểm dao đ ng đi u hòa với phư ng trình x = Acos ωt + φ ; trong đ A, ω là c c
+hằng số dư ng      ha c a dao đ ng ở thời điểm t là
+  A. ωt +φ                     B. ω                       C. φ                     D. ωt
+Câu 110. Hai dao đ ng c phư ng trình l n lượt là: x1 = 5cos(2πt + ,75π (cm) và x2 = 1 cos 2πt
++ ,5π cm           lệch pha c a hai dao đ ng này c đ lớn bằng
+  A. ,25π                      B. 1,25π                   C. ,5 π                  D. ,75π
+Câu 111.       t chất điểm dao đ ng đi u hòa với phư ng trình x = Acos ωt + φ , trong đ ω c gi trị
+dư ng      ại lượng ω g i là
+  A. bi n đ dao đ ng                                      B. chu kì c a dao đ ng
+  C. t n số g c c a dao đ ng                              D. pha ban đ u c a dao đ ng
+Câu 112. Khi n i v dao đ ng duy tr c a m t con l c, ph t biểu nào sau đây đúng?
+  A. i n đ dao đ ng giảm d n, t n số c a dao đ ng h ng đ i
+  B. i n đ dao đ ng h ng đ i, t n số c a dao đ ng giảm d n
+  C. ả bi n đ dao đ ng và t n số c a dao đ ng đ u h ng đ i
+  D. ả bi n đ dao đ ng và t n số c a dao đ ng đ u giảm d n
+
+Câu 113.       t con l c lò xo g m vật nh c khối lượng m và lò xo c đ c ng k, dao đ ng đi u hòa
+với phư ng tr nh x = Acos ωt + φ             ốc thế năng ở vị tr cân bằng   năng c a con l c là
+     1                              1 2                        1                        1 2
+  A. m A2 .                   B.     kA .                C.     m x 2 .          D.     kx .
+     2                              2                          2                        2
+                                                                                         
+Câu 114. Cho hai dao đ ng đi u hòa cùng phư ng, cùng t n số, lệch pha nhau                   , với biên đ A1 và
+                                                                                         2
+A2. ao đ ng t ng hợp c a hai dao đ ng tr n c bi n đ là
+
+  A. A12  A22 .               B.     A12  A22 .         C. A1  A2 .             D. A1  A2 .
+Câu 115. Khi n i v dao đ ng duy trì c a m t con l c, ph t biểu nào sau đây đúng?
+  A. i n đ c a dao đ ng duy trì giảm d n theo thời gian.
+  B. ao đ ng duy tr       h ng bị t t d n do con l c không chịu t c d ng c a l c cản
+  C. Chu kì c a dao đ ng duy tr nh h n chu kì dao đ ng ri ng c a con l c
+  D. ao đ ng duy tr được b sung năng lượng sau m i chu kì.
+
+Câu 116.        t con l c l xo đang dao đ ng đi u h a, đại lượng nào sau đây c a con l c được bảo
+toàn?
+  A.        năng và thế năng                              B.     ng năng và thế năng
+  C.        năng                                          D.     ng năng
+Câu 117. hi n i v dao đ ng c cưỡng b c, ph t biểu nào sau đây sai?
+  A. i n đ c a dao đ ng cưỡng b c ph thu c vào bi n đ c a l c cưỡng b c
+  B. i n đ c a dao đ ng cưỡng b c ph thu c vào t n số c a l c cưỡng b c
+  C. ao đ ng cưỡng b c c t n số lu n bằng t n số c a l c cưỡng b c
+  D. ao đ ng cưỡng b c c t n số lu n bằng t n số ri ng c a hệ dao đ ng
+Câu 118. Hai dao đ ng đi u h a, c ng phư ng, c ng t n số, c ng pha, c bi n đ l n lượt là A1,
+A2. i n đ dao đ ng t ng hợp c a hai dao đ ng này là
+
+  A. A12  A22 .                B.     A12  A22 .        C. A1  A2 .            D. A1  A2 .
+Câu 119.        t con l c l xo g m vật nh và l xo nh c đ c ng , dao đ ng đi u h a d c theo tr c
+ x quanh vị tr cân bằng              iểu th c l c éo v t c d ng l n vật theo li đ x là
+                                                                   1                       1
+  A. F  kx .                   B. F  kx .              C. F  kx .             D. F  kx 2 .
+                                                                   2                       2
+Câu 120. Véc t vận tốc c a m t vật dao đ ng đi u hòa luôn
+  A. hướng ra xa vị tr cân bằng                           B. cùng hướng chuyển đ ng
+  C. hướng v vị trí cân bằng                              D. ngược hướng chuyển đ ng
+Câu 121. Khi n i v dao đ ng c t t d n c a m t vật, ph t biểu nào sau đây đúng?
+  A. i đ c a vật lu n giảm d n theo thời gian.            B. Gia tốc c a vật lu n giảm d n theo thời gian.
+  C. Vận tốc c a vật lu n giảm d n theo thời gian. D. i n đ dao đ ng giảm d n theo thời gian.
+Câu 122.        t con l c l xo đang dao đ ng đi u h a          c éo v t c d ng vào vật nh c a con l c
+c đ lởn t lệ thuận với
+  A. đ lớn vận tốc c a vật                                B. đ lớn li đ c a vật
+  C. bi n đ dao đ ng c a con l c                          D. chi u dài l xo c a con l c
+Câu 123.        t chất điểm c     hối lượng m đang dao đ ng đi u h a       hi chất điểm c vận tốc v th
+đ ng năng c a n là
+        1                                                      1 2
+  A. mv 2 .                     B. mv 2 .                 C.     m v.             D. m 2 v .
+        2                                                      2
+Câu 124.        t con l c l xo g m vật nh và l xo nh c đ c ng              dao đ ng đi u h a d c theo tr c
+ x quanh vị tr cân bằng              iểu th c x c định l c éo v t c d ng l n vật ở li đ x là     =- x    ếu
+ t nh bằng niut n        , x t nh bằng mét m th        t nh bằng
+  A. N.m2.                     B. N.m2.                   C. N/m.                   D. N/m.
+Câu 125. Hai dao đ ng đi u h a c ng phư ng, c ng t n số c bi n đ và pha ban đ u l n lượt là A1,
+1 và A2,  2 .  ao đ ng t ng hợp c a hai dao đ ng này c pha ban đ u được tính theo công th c
+            A cos 1  A2 cos  2                             A sin 1  A2 sin  2
+  A. tan   1                      .              B. tan   1                     .
+             A1 sin 1  A2 sin  2                          A1 cos 1  A2 cos  2
+              A sin 1  A2 sin  2                           A sin 1  A2 sin  2
+  C. tan   1                       .             D. tan   1                     .
+             A1 cos 1  A2 cos  2                          A1 cos 1  A2 cos  2
+Câu 126.          t con l c l xo g m vật nh và l xo nh , đang dao đ ng đi u h a tr n mặt phẳng nằm
+ngang       ng năng c a con l c đạt gi trị c c tiểu hi
+  A. l xo h ng biến dạng                                  B. vật c vận tốc c c đại
+  C. vật đi qua vị tr cân bằng                            D. lò xo c chi u dài c c đại
+Câu 127.          t vật dao đ ng đi u hoà trên tr c Ox quanh vị tr cân bằng       Vect gia tốc c a vật
+  A. c đ lớn t lệ thuận với đ lớn li đ c a vật B. c đ lớn t lệ nghịch với tốc đ c a vật
+  C. lu n hướng ngược chi u chuyển đ ng c a vật                D. lu n hướng theo chi u chuyển đ ng c a vật
+Câu 128. Hai dao đ ng đi u hòa cùng phư ng, cùng t n số, ngược pha nhau c biên đ l n lượt là
+A1 và A2          ao đ ng t ng hợp c a hai dao đ ng này c bi n đ là
+
+  A. A12  A22 .               B.      A12  A22 .        C. A1  A2 .              D. A1  A2 .
+Câu 129.          t con l c đ n c chi u dài 𝓁 dao đ ng đi u h a tại n i c gia tốc tr ng trường g         hu
+  dao đ ng ri ng c a con l c này là
+            l                             g                     1      l                  1   g
+  A. 2       .                B. 2        .             C.             .          D.          .
+            g                             l                    2      g                 2   l
+
+Câu 130.          t con l c lò xo g m vật nh và lò xo nh c đ c ng k, đang dao đ ng đi u hòa.          ốc
+thế năng tại vị tr cân bằng         iểu th c thế năng c a con l c ở li đ x là
+                                     1                                                   1 2
+  A. kx .                      B.      kx .               C. 2kx 2 .                D.     kx .
+                                     2                                                   2
+Câu 131.          t vật dao đ ng đi u hoà trên tr c Ox quanh vị tr cân bằng       Vect gia tốc c a vật
+  A. c đ lớn t lệ thuận với đ lớn vận tốc c a vật B. c đ lớn t lệ nghịch với đ lớn li đ c a vật
+  C. lu n hướng v vị tr cân bằng                 D. luôn hướng ra xa vị tr cân bằng
+Câu 132.    t vật dao đ ng đi u h a tr n tr c x quanh vị tr cân bằng        i A, ω và φ l n lượt là
+bi n đ , t n số g c và pha ban đ u c a dao đ ng           iểu th c li đ c a vật theo thời gian t là
+  A. x = Acos ωt + φ             B. x = ωcos tφ+A         C. x = tcos φA + ω         D. x = φcos Aω + t)
+Câu 133. Dao đ ng c t t d n
+  A. c bi n đ tăng d n theo thời gian.                    B. c bi n đ giảm d n theo thời gian.
+  C. lu n c hại                                           D. lu n c lợi
+Câu 134.          t vật dao đ ng đi u hòa theo phư ng trình x = Acos ωt + φ ω > 0). T n số g c c a
+dao đ ng là
+  A. A                           B. ω                   C. φ                         D. x.
+Câu 135. hi n i v dao đ ng c cưỡng b c, ph t biểu nào sau đây sai?
+  A. ao đ ng cưỡng b c c chu kì lu n bằng chu kì c a l c cưỡng b c
+  B. i n đ c a dao đ ng cưỡng b c ph thu c vào bi n đ c a l c cưỡng b c
+  C. ao đ ng cưỡng b c c t n số lu n bằng t n số ri ng c a hệ dao đ ng
+  D. i n đ c a dao đ ng cưỡng b c ph thu c vào t n số c a l c cưỡng b c
+Câu 136.           t vật dao đ ng đi u hòa tr n tr c x Vận tốc c a vật
+  A. là hàm bậc hai c a thời gian.                      B. biến thi n đi u h a theo thời gian.
+  C. lu n c gi trị h ng đ i                             D. lu n c gi trị dư ng
+Câu 137.           t con l c lò xo c t n số dao đ ng riêng f 0 . Khi t c d ng vào n m t ngoại l c cưỡng
+
+b c tu n hoàn c t n số f th xảy ra hiện tượng c ng hưởng Hệ th c nào sau đây đúng?
+  A. f  2 f 0 .                 B. f  0,5 f 0 .       C. f  4 f 0 .               D. f  f 0 .
+Câu 138.           t vật dao đ ng đi u h a theo phư ng tr nh x = Acos ωt + φ A >              i n đ dao đ ng
+c a vật là
+  A. A                           B. φ                   C. ω                         D. x.
+Câu 139. Cho hai dao đ ng đi u hòa c ng phư ng và c ng t n số Hai dao đ ng này ngược pha
+nhau hi đ lệch pha c a hai dao đ ng bằng
+  A. (2n + 1) π với n = 0, ±1, ±2…                      B. 2nπ với n = 0, ±1, ±2…
+                                                                        
+  C. (2n + 1)           với n = 0, ±1, ±2…              D. (2n + 1)          với n = 0, ±1, ±2…
+                    2                                                    4
+
+Câu 140.           t con l c đ n dao đ ng với phư ng trình s = 3cos πt + ,5π (cm) (t tính bằng giây).
+T n số dao đ ng c a con l c này là
+  A. 2 Hz.                       B. 4π Hz.              C. 0,5 Hz.                   D. ,5π Hz.
+Câu 141. ho hai dao đ ng đi u h a c ng phư ng, c ng t n số                   i n đ dao đ ng t ng bợp c a hai
+dao đ ng này c gi trị nh nhất hi đ lệch pha c a hai dao đ ng bằng:
+  A. (2n + 1) π với n = 0, ±1, ±2…                      B. 2nπ với n = 0, ±1, ±2…
+                                                                        
+  C. (2n + 1)           với n = 0, ±1, ±2…              D. (2n + 1)          với n = 0, ±1, ±2…
+                    2                                                    4
+Câu 142.           t vật dao đ ng đi u h a tr n tr c   x quanh vị tr cân bằng           hi n i v gia tốc c a
+vật, ph t biểu nào sau đây sai?
+  A. Gia tốc c đ lớn t lệ với đ lớn li đ c a vật               B. Vect gia tốc lu n c ng hướng với vect vận
+  tốc
+  C. Vect gia tốc lu n hướng v vị tri cân bằng              D. Gia tốc lu n ngược dấu với li đ c a vật
+Câu 143. M t vật dao đ ng đi u hoà theo phư ng trình x = Acos ωt + φ (A > 0, ω > 0). Pha c a
+dao đ ng ở thời điểm t là
+    A. ω                          B. cos ωt + φ                   C. ωt + φ                 D. φ
+ Câu 144.            t con l c lò xo c đ c ng k dao đ ng đi u hòa d c theo tr c Ox nằm ngang. Khi vật ở
+ vị tr c li đ x th l c éo v t c d ng l n vật c gi trị là
+                                                                       1                         1 2
+    A. kx .                      B. kx 2 .                       C.     kx .               D.     kx .
+                                                                       2                         2
+ Câu 145.        t vật dao đ ng di u h a theo phư ng tr nh x = Acos ωt + φ Vận tốc c a vật được t nh
+ bằng c ng th c
+    A. v=ω2Acos ωt + φ            B. v=ωAsin ωt + φ               C. v=-ω2Acos ωt + φ       D. v=-ωAsin ωt + φ
+ Câu 146.            t con l c lò xo g m vật nh c         hối lượng m và lò xo nh c đ c ng k. Con l c dao
+ đ ng đi u h a với chu          là
+               m                         m                               k                            k
+    A. 2        .                B.       .                      C.       .                D. 2       .
+               k                         k                               m                            m
+ Câu 147.            t vật dao đ ng đi u h a với t n số g c ω            hi vật ở vị tr c li đ x th gia tốc c a vật là
+    A. ωx2                   B. ωx                              C. -ωx2               D. -ω2x2
+ Câu 148.      t con l c lò xo g m vật nh c               hối lượng m và lò xo nh c đ c ng k. Con l c dao đ ng
+đi u    h a với t n số g c là
+
+               m                         m                               k                            k
+    A. 2        .                B.       .                      C.       .                D. 2       .
+               k                         k                               m                            m
+ Câu 149. Tại m t n i trên mặt đất, m t con l c đ n dao đ ng đi u h a với chu kì 1,2s                       ếu chi u
+ dài con l c tăng l n 4 l n th chu              c a dao đ ng đi u h a c a con l c lúc này là
+    A. 0,6s                       B. 4,8s                         C. 2,4s                   D. 0,3s
+ Câu 150.     t vật dao đ ng đi u hòa với t n số g c ω Chu dao đ ng c a vật được tính bằng công th c
+                                      2                        1                     
+    A. T  2 .              B. T      .              C. T      .          D. T      .
+                                                              2                    2
+ Câu 151.            t con l c l xo g m vật nh và l xo nh c đ c ng                     on l c dao đ ng đi u h a d c
+ theo tr c x nằm ngang           hi vật c li đ x th l c đàn h i c a l xo t c d ng vào n là
+                                       1                 1 2
+A. kx .         B. kx 2 .       C.      kx .       D.     kx .
+                                       2                 2
+ Câu 152.        t con l c l xo g m m t vật nh và l xo nh c đ c ng                         on l c dao đ ng đi u h a
+ theo phư ng tr nh 𝑥 = 𝐴 𝑐𝑜𝑠(𝜔𝑡 + 𝜑)                h n mốc thế năng ở vị tr cân bằng            năng c a con l c là
+                                                                       1 2                       1
+    A. kA .                       B. kA2 .                        C.     kA .               D.     kA .
+                                                                       2                         2
+  Câu 153.           t vật dao đ ng đi u hòa theo phư ng trình 𝑥 = 𝐴𝑐os(𝜔𝑡 + 𝜑). ại lượng x được g i là:
+    A. chu kì dao đ ng            B. bi n đ dao đ ng              C. t n số dao đ ng        D. li đ dao đ ng
+ Câu 154. Tại m t n i tr n mặt đất, m t con l c đ n dao đ ng đi u h a với chu                       2s      ếu chi u dài
+ con l c giảm đi 4 l n th chu           dao đ ng đi u h a c a con l c lúc này là:
+    A. 0,5 s                      B. 8 s                          C. 4 s                    D. 1 s
+Câu 155.           t vật dao đ ng đi u h a với t n số f. Chu kì dao đ ng c a vật được t nh bằng công th c
+                                                                    1                              2
+   A. T=f.                       B. T = 2πf                C. T      .                  D. T 
+                                                                    f                               f
+Câu 156.           t con l c l xo g m lò xo nh và vật nh c          hối lượng m đang dao đ ng đi u hòa. Khi
+vật c tốc đ v th đ ng năng c a con l c là
+       1                                                        1
+   A. mv 2 .                     B. mv 2 .                 C.     mv .                   D. mv .
+       2                                                        2
+Câu 157.           t con l c l xo đang th c hiện dao đ ng cưỡng b c dưới t c d ng c a ngoại l c cưỡng
+b c với phư ng tr nh:          = ,25cos4πt        t t nh bằng s     on l c dao đ ng với t n số g c là
+   A. 4π rad/s.                  B. 0,5 rad/s.             C. 2π rad/s.                  D. 0,25 rad/s.
+Câu 158.     ối li n hệ giữa t n số g c ω và t n số f c a m t dao đ ng đi u h a là
+             f                                                                                      1
+   A.        .                 B.    f .              C.   2 f .                 D.             .
+            2                                                                                     2 f
+Câu 159.           t con l c lò xo đang dao đ ng đi u h a         năng c a con l c là
+   A. t ng đ ng năng và thế năng c a n                     B. hiệu đ ng năng và thế năng c a n
+   C. t ch c a đ ng năng và thế năng c a n                 D. thư ng c a đ ng năng và thế năng c a n
+Câu 160. Biên đ c a dao đ ng c t t d n
+   A. h ng đ i theo thời gian.                             B. tăng d n theo thời gian.
+   C. giảm d n theo thời gian.                             D. biến thi n đi u h a theo thời gian.
+Câu 161.           t vật dao đ ng đi u h a theo phư ng tr nh x = Acos ωt +  với A > ;  >                         ại
+lượng  được g i là
+   A. pha c a dao đ ng                                     B. t n số g c c a dao đ ng
+   C. bi n đ dao đ ng                                      D. li đ c a dao đ ng
+Câu 162.           t con l c l xo g m l xo và vật nh c            hối lượng m đang dao đ ng đi u h a theo
+phư ng nằm ngang             hi vật c tốc đ v th đ ng năng c a con l c được t nh bằng c ng th c nào sau
+đây?
+
+             1                               1                           1                          1
+   A. Wd  mv .                  B. Wd  mv 2 .            C. Wd  mv .                  D. Wd  mv 2 .
+             2                               2                           4                          4
+Câu 163. Cho hai dao đ ng đi u hòa cùng phư ng, cùng t n số và c đ lệch pha  . ếu hai dao
+đ ng ngược pha nhau th c ng th c nào sau đây đúng?
+   A. (2n + 1) π với n = 0, ±1, ±2…                        B. 2nπ với n = 0, ±1, ±2…
+                                                                            
+   C. (2n + 1)          với n = 0, ±1, ±2…                 D. (2n + 1)           với n = 0, ±1, ±2…
+                    2                                                        4
+Câu 164.           t vật dao đ ng đi u h a theo phư ng trình x= Acos ωt +  với A > ,  >0.                   ại
+lượng A được g i là
+A. chu     c a dao đ ng      B. li đ c a dao đ ng       C. t n số c a dao đ ng D. bi n đ c a dao đ ng
+
+Câu 165.       t con l c l xo g m l xo và m t vật nh c           hối lượng m đang dao đ ng đi u h a theo
+phư ng nằm ngang với t n số g c ω và bi n đ A            ốc thế năng ở vị tr cân bằng            năng c a con
+l c được t nh bằng c ng th c nào đây?
+  A. W = ,5mω2A2.            B. W = ,5mω2A.             C. W = ,25mω2A.             D. W = ,25mω2A2.
+Câu 166.       t con l c lò xo g m vật nh và lò xo c đ c ng k dao đ ng đi u hòa theo phư ng nằm
+ngang      ốc thế năng ở vị tr cân bằng       hi vật c li đ x th thế năng c a con l c được t nh bằng
+c ng th c nào sau đây
+           1                          1                           1                         1
+  A. Wt  kx .               B. Wt  kx 2 .             C. Wt  kx .                D. Wt  kx 2 .
+           2                          2                           4                         4
+Câu 167.       t vật dao đ ng đi u h a theo phư ng tr nh x= Acos ωt +  với A > ,  >0.                ại
+lượng x được g i là
+
+A. T n số dao đ ng        B. i đ dao đ ng         C. i n đ dao đ ng                D. Pha c a dao đ ng
+
+Câu 168.        t vật dao đ ng đi u h a theo phư ng tr nh x= Acos ωt +  với A > ,  >0.               ại
+lượng ωt +  được g i là
+
+A. pha c a dao đ ng          B. chu      c a dao đ ng    C. li đ c a dao đ ng        D. t n số c a dao đ ng
+
+Câu 169. Cho hai dao đ ng đi u h a cùng phư ng, c ng t n số và c đ lệch pha φ                     ếu hai dao
+đ ng c ng pha th c ng th c nào sau đây là đúng?
+  A. (2n + 1) π với n = 0, ±1, ±2…                      B. 2nπ với n = 0, ±1, ±2…
+                                                                       
+  C. (2n + 1)       với n = 0, ±1, ±2…                  D. (2n + 1)         với n = 0, ±1, ±2…
+                2                                                       4
+Câu 170.       câu chuyện v m t gi ng h t opera cao và h e c thể làm vỡ m t c i cốc th y tinh để
+g n      là ết quả c a hiện tượng nào sau đây?
+  A.     ng hưởng điện       B. ao đ ng t t d n         C. ao đ ng duy trì.         D.    ng hưởng c
+Câu 171.        t con l c l xo g m l xo nh c đ c ng k và vật nh c                hối lượng m. on l c này
+dao đ ng đi u h a với chu      là
+                m                     m                           k                              k
+  A. T  2       .          B. T      .               C. T       .               D. T  2      .
+                k                     k                           m                              m
+Câu 172.        t con l c đ n dao đ ng theo phư ng trình x = 4cos2πt (cm) (t tính bằng giây). Chu
+dao đ ng c a con l c là
+  A. 2 giây.                    B. 1 giây.                  C. ,5π giây.                  D. 2π giây.
+Câu 173.       t con l c lò xo g m lò xo nh và vật nh c              hối lượng m, đang dao đ ng đi u hòa.
+                                                 1
+   i v là vận tốc c a vật      ại lượng Wd  mv 2 được g i là
+                                                 2
+  A. l c ma s t                 B. đ ng năng c a con l c C. thế năng c a con l c               D. l c kéo v
+Câu 174. Hai dao đ ng đi u h a c ng phư ng c phư ng tr nh l n lượt là x 1 = A1cos ωt + φ1) và
+x2 = A2cos(ωt + φ2) với A1, A2 và ω là c c hằng số dư ng                   ao đ ng t ng hợp c a hai dao đ ng
+tr n c bi n đ là A          ng th c nào sau đây đúng?
+  A. A2  A12  A22  2 A1 A2 cos 2  1  .              B. A2  A12  A22  2 A1 A2 cos 2  1  .
+  C. A2  A12  A22  2 A1 A2 cos 2  1  .              D. A2  A12  A22  2 A1 A2 cos 2  1  .
+Câu 175. hi m t con l c l xo đang dao đ ng t t d n do t c d ng c a l c ma s t th c năng c a
+con l c chuyển h a d n d n thành
+  A. điện năng                  B. quang năng               C. h a năng                   D. nhiệt năng
+Câu 176.       t con l c đ n c chi u dài ℓ, đang dao đ ng đi u hòa ở n i c gia tốc tr ng trường g.
+
+                      l
+ ại lượng T  2           được g i là
+                      g
+
+  A. chu kì c a dao đ ng                                    B. t n số c a dao đ ng
+  C. t n số g c c a dao đ ng                                D. pha ban đ u c a dao đ ng
+Câu 177.         t con l c đ n đang dao đ ng t t d n trong không khí.              c nào sau đây làm dao đ ng
+c a con l c t t d n?
+  A. Tr ng l c c a vật                                      B. ưc căng c a dây treo.
+  C.       c cản c a không khí.                             D.     c đẩy Ác-si-mét c a không khí.
+Câu 178.        t con l c đ n dao đ ng đi u hòa c phư ng trình s = s0cos ωt + φ (s0 > 0). ại lượng
+s0 được g i là
+  A. pha ban đ u c a dao đ ng                               B. biên đ c a dao đ ng
+  C. t n số c a dao đ ng                                    D. li đ g c c a dao đ ng
+Câu 179.       t con l c lò xo g m vật nh và lò xo nh c đ c ng k, đang dao đ ng đi u hòa theo
+                                                                                                     1
+phư ng ngang        ốc thế năng ở vị tr cân bằng           i x là li đ c a vật đại lượng Wt  kx 2 được g i là:
+                                                                                                     2
+
+  A. đ ng năng c a con l c                                  B. l c ma s t
+  C. l c kéo v                                              D. thế năng c a con l c
+Câu 180.         t con l c l xo g m vật nh           hối lượng m và l xo nh c đ c ng đang dao đ ng
+đi u h a     hi vật qua vị tr c li đ x th gia tốc c a vật là
+            k                          m             k            k
+A. a        x.            B. a        x .C. a   x . D. a   x .
+           2m                          2k            m            m
+ Câu 181.          t con l c đ n c vật nh              hối lượng m đang dao đ ng đi u hòa ở n i c gia tốc tr ng
+ trường g        hi vật qua vị tr c li đ g c            th thành ph n c a tr ng l c tiếp tuyến với quỹ đạo c a vật
+ c gi trị là       = – mg            ại lượng t là
+    A. l c ma s t                     B. chu      c a dao đ ng C. l c éo v                     D. bi n đ c a dao
+ đ ng
+
+ Câu 182. Dao đ ng cưỡng b c c biên đ
+    A. không đ i theo thời gian.                                     B. giảm li n t c theo thời gian.
+    C. biến thi n đi u h a theo thời gian.                           D. tăng li n t c theo thời gian.
+ Câu 183.          t con l c lò xo g m vật nh             hối lượng m và lò xo nh c đ c ng k đang dao đ ng
+
+                                        m
+ đi u hòa. ại lượng T  2                được g i là
+                                        k
+    A. biện đ dao đ ng c a con l c.                                  B. t n số c a con l c.
+    C. t n số g c c a con l c.                                       D. chu     c a con l c.
+ Câu 184.          t con l c l xo g m vật nh và l xo nh c đ c ng 𝑘 đang dao đ ng đi u h a d c
+ theo tr c x nằm ngang                hi vật qua vị tr c li đ 𝑥 th l c éo v 𝐹 t c d ng l n vật được x c định
+ bằng c ng th c nào sau đây?
+                                                                              kx                          kx
+    A. F  kx .                       B. F  kx .                   C. F       .             D. F        .
+                                                                              2                           2
+ Câu 185.          t con l c đ n chiểu dài 𝑙 đang dao đ ng đi u h a                  i 𝛼 rad là li đ g c c a con l c
+   ại lư ng 𝑠 = 𝑙𝛼 được g i là
+    A. chu       dao đ ng c a con l c                                B. t n số dao đ ng c a con l c
+    C. t n số g c c a con l c                                        D. li đ cong c a con l c
+ Câu 186.          t con l c đ n chi u dài 𝓁 đang dao đ ng đi u h a với bi n đ g c 𝛼0 (𝑟𝑎𝑑). i n đ
+ dao đ ng c a con l c l c là
+                             l                  0
+A. s0  l 0 .    B. s0         .    C. s0       .   D. s0  l 2 0 .
+                            0                   l
+ Câu 187.          t hệ dao đ ng cưỡng b c, ph t biểu nào sau đây sai?
+    A. Dao đ ng cưỡng b c c bi n đ không đ i.
+    B. Dao đ ng cưỡng b c c biên đ ph thu c vào bi n đ c a l c cưỡng b c.
+    C. Dao đ ng cưỡng b c c t n số lu n bằng t n số dao đ ng ri ng c a hệ.
+    D. Dao đ ng cưỡng b c c t n số bằng t n số c a l c cưỡng b c.
+ Câu 188.          t hệ đang dao đ ng t t d n               năng c a hệ
+    A. là đại lượng h ng đ i                                         B. giảm d n theo thời gian.
+    C. tăng d n r i giảm d n theo thời gian.                         D. tăng d n theo thời gian.
+Câu 189.            t vật dao đ ng đi u hòa d c theo tr c Ox với phư ng trình x=Acos ωt+φ Khi vật đi
+qua vị tr cân bằng th đ lớn gia tốc c a vật c gi trị là
+     A. ωA                          B. 0,5A                   C. ω2A                    D. 0.
+Câu 190.            t con l c l xo đang dao đ ng đi u h a theo phư ng nằm ngang              ốc thế năng ở vị tr
+cân bằng           hi n i v c năng c a con l c, ph t biểu nào sau đây sai?
+A.         năng c a con l c t lệ với b nh phư ng c a bi n đ dao đ ng
+B.        năng c a con l c bằng đ ng năng c c đại c a con l c
+C.         năng c a con l c bằng thế năng c c đại c a con l c
+D.         năng c a con l c t lệ nghịch với b nh phư ng c a bi n đ dao đ ng
+Câu 191. Ở m t n i trên mặt đất, con l c đ n c chi u dài 𝑙 dao đ ng đi u hòa với chu kì T.                  ng
+                                                l
+tại n i đ , con l c đ n c chi u dài               dao đ ng đi u h a với chu kì là
+                                                4
+          T                                                        T
+     A.     .                       B. 4T .                   C.     .                  D. 2T .
+          4                                                        2
+Câu 192. hi s ng âm truy n t môi trường không khí vào môi trường nước thì
+     A. chu        c a n tăng                                 B. t n số c a n    h ng thay đ i
+     C. bước s ng c a n giảm                                  D. bước s ng c a n       h ng thay đ i
+Câu 193. Trên m t sợi dây c chi u dài ℓ, hai đ u cố định, đang c s ng d ng Trên dây c m t
+b ng s ng           iết vận tốc truy n s ng tr n dây là v h ng đ i T n số c a s ng là
+          v                              v                         2v                        v
+     A. .                           B.      .                 C.      .                 D.      .
+          l                              2l                         l                        4l
+Câu 194. ể hảo s t giao thoa s ng c , người ta bố tr tr n mặt nước nằm ngang hai ngu n ết hợp
+S1 và S2 Hai ngu n này dao đ ng đi u h a theo phư ng thẳng đ ng, c ng pha Xem bi n đ s ng
+ h ng thay đ i trong qu tr nh truy n s ng                c điểm thu c mặt nước và nằm tr n đường trung tr c
+c a đoạn 1S2 s
+     A. dao đ ng với bi n đ bằng nửa bi n đ c c đại B. dao đ ng với bi n đ c c tiểu
+     C. dao đ ng với bi n đ c c đại                                D. không dao đ ng
+Câu 195.             t s ng âm c t n số x c định truy n trong h ng h và trong nước với vận tốc l n
+lượt là 33 m/s và 1452 m/s               hi s ng âm đ truy n t nước ra h ng h th bước s ng c a n s
+     A. giảm 4,4 l n                B. giảm 4 l n             C. tăng 4,4 l n           D. tăng 4 l n
+Câu 196.            n vị đo cường đ âm là
+     A.         t tr n mét (W/m).                             B. Ben (B).
+     C. iut n tr n mét vuông (N/m2).                          D.      t trên mét vuông (W/m2).
+Câu 197.           ng c truy n trong m t m i trường d c theo tr c x với phư ng tr nh u = cos( 20t −
+4x) cm x t nh bằng mét, t t nh bằng giây Vận tốc truy n s ng này trong m i trường tr n bằng
+     A. 5 m/s.                      B. 50 cm/s.               C. 40 cm/s                D. 4 m/s.
+Câu 198.      t l thép m ng, m t đ u cố định, đ u c n lại được     ch th ch để dao đ ng với chu
+ h ng đ i và bằng , 8 s     m do l thép ph t ra là
+  A. âm mà tai người nghe được                       B. nhạc âm.
+  C. hạ âm.                                          D. siêu âm.
+Câu 199. Ở mặt nước c hai ngu n s ng dao đ ng theo phư ng vu ng g c với mặt nước, c
+c ng phư ng trình u = Acos  t. Trong mi n gặp nhau c a hai s ng, những điểm mà ở đ c c
+ph n tử nước dao đ ng với bi n đ c c đại s c hiệu đường đi c a s ng t hai ngu n đến đ
+bằng
+  A. m t số l l n nửa bước s ng                      B. m t số nguy n l n bước s ng
+  C. m t số nguy n l n nửa bước s ng                 D. m t số l l n bước s ng
+Câu 200.      t s ng âm truy n trong h ng h           c cường đ âm tại điểm      và tại điểm      l n
+lượt là 4 d và 8 d        ường đ âm tại     lớn h n cường đ âm tại
+  A. 10000 l n             B. 1000 l n               C. 40 l n               D. 2 l n
+Câu 201. ước s ng là hoảng c ch giữa hai điểm
+  A. trên cùng m t phư ng truy n s ng mà dao đ ng tại hai điểm đ ngược pha.
+  B. g n nhau nhất trên c ng m t phư ng truy n s ng mà dao đ ng tại hai điểm đ c ng pha.
+  C. g n nhau nhất mà dao đ ng tại hai điểm đ c ng pha.
+  D. trên cùng m t phư ng truy n s ng mà dao đ ng tại hai điểm đ c ng pha.
+Câu 202.   i u iện để hai s ng c     hi gặp nhau, giao thoa được với nhau là hai s ng phải xuất
+ph t t hai ngu n dao đ ng
+  A. c ng bi n đ và c hiệu số pha không đ i theo thời gian
+  B. cùng t n số, cùng phư ng
+  C. c c ng pha ban đ u và cùng biên đ
+  D. cùng t n số, c ng phư ng và c hiệu số pha h ng đ i theo thời gian
+Câu 203. Khi n i v s ng âm, ph t biểu nào sau đây là sai?
+  A. Ở cùng m t nhiệt đ , tốc đ truy n s ng âm trong không khí nh h n tốc đ truy n s ng âm trong
+  nước
+  B.   ng âm truy n được trong c c m i trường r n, l ng và khí.
+  C.    ng âm trong không khí là s ng d c
+  D.    ng âm trong không khí là s ng ngang
+Câu 204. h t biểu nào sau đây là đúng khi n i v s ng c ?
+  A. ước s ng là hoảng c ch giữa hai điểm tr n c ng m t phư ng truy n s ng mà dao đ ng tại
+hai điểm đ c ng pha
+  B.   ng c truy n trong chất r n luôn là s ng d c
+  C.    ng c truy n trong chất l ng luôn là s ng ngang.
+     D. ước s ng là hoảng c ch giữa hai điểm g n nhau nhất trên cùng m t phư ng truy n s ng mà
+dao đ ng tại hai điểm đ c ng pha
+
+Câu 205. Trên m t sợi dây đàn h i đang c s ng d ng                   hoảng c ch t m t nút đến m t b ng             n
+bằng
+     A. hai bước s ng                                       B. m t nửa bước s ng
+     C. m t ph n tư bước s ng                               D. m t bước s ng
+Câu 206.          t s ng c lan truy n trong m t m i trường Hai điểm trên cùng m t phư ng truy n
+s ng, c ch nhau m t hoảng bằng bước s ng c dao đ ng
+                                                                         
+     A. lệch pha       .           B. ngược pha.            C. lệch pha       .            D. cùng pha.
+                   2                                                      4
+Câu 207.          t s ng âm và m t s ng nh s ng truy n t không khí vào nước th bước s ng
+     A. c a s ng âm tăng còn bước s ng c a s ng nh s ng giảm
+     B. c a s ng âm giảm c n bước s ng c a s ng nh s ng tăng
+     C. c a s ng âm và s ng nh s ng đ u giảm
+     D. c a s ng âm và s ng nh s ng đ u tăng
+Câu 208. Khi n i v s truy n s ng c trong m t môi trường, ph t biểu nào sau đây đúng?
+     A. hững ph n tử c a m i trường c ch nhau m t số nguy n l n bước s ng thì dao đ ng c ng pha.
+     B. Hai ph n tử c a môi trường c ch nhau m t ph n tư bước s ng th dao đ ng lệch pha nhau 900.
+     C. hững ph n tử c a môi trường trên cùng m t hướng truy n s ng và c ch nhau m t số nguyên
+l n bước s ng th dao đ ng c ng pha
+     D. Hai ph n tử c a m i trường c ch nhau m t nửa bước s ng th dao đ ng ngược pha.
+Câu 209. Xét điểm M ở trong môi trường đàn h i c s ng âm truy n qua.                        c cường đ âm tại M
+là        d     ếu cường đ âm tại điểm         tăng l n 1    l n th m c cường đ âm tại điểm đ bằng
+     A. 100L (dB).                 B. L + 100 (dB).         C. 20L (dB).                   D. L + 20 (dB).
+Câu 210. Tr n m t sợi dây c s ng d ng với bước s ng là λ                  hoảng c ch giữa hai nút s ng li n            là
+                                                 
+  A. .                   B.  .                C. .                                        D. 2 .
+          4                                                      2
+Câu 211.          t s ng h nh sin đang lan truy n trong m t m i trường                c ph n tử m i trường ở hai
+điểm nằm tr n c ng m t hướng truy n s ng và c ch nhau m t số nguy n l n bước s ng th dao
+đ ng
+                                                                                 
+     A. lệch pha nhau          .   B. ngược pha nhau.       C. lệch pha nhau          .    D. cùng pha nhau.
+                           2                                                      4
+Câu 212. Khi n i v s ng âm, ph t biểu nào sau đây sai?
+     A. i u âm c t n số lớn h n 2             Hz            B. Hạ âm c t n số nh h n 16 Hz
+     C.       n vị c a m c cường đ âm là W/m2               D.       ng âm h ng truy n được trong chân h ng
+Câu 213. h t biểu nào sau đây là đúng khi n i v s ng c ?
+   A. ước s ng là hoảng c ch giữa hai điểm g n nhau nhất trên cùng m t phư ng truy n s ng mà
+dao đ ng tại hai điểm đ c ng pha
+   B.       ng c truy n trong chất l ng luôn là s ng ngang.
+   C.           ng c truy n trong chất r n lu n là s ng d c
+   D. ước s ng là hoảng c ch giữa hai điểm tr n c ng m t phư ng truy n s ng mà dao đ ng tại
+hai điểm đ c ng pha
+Câu 214. Hai âm cùng đ cao là hai âm c cùng
+   A. cường đ âm.                 B. m c cường đ âm.        C. biên đ                  D. t n số
+Câu 215.             t s ng c c t n số f, truy n trên dây đàn h i với tốc đ truy n s ng v và bước s ng λ
+Hệ th c đúng là:
+                                           f                             
+   A. v   f .                   B. v        .            C. v            .         D. v  2 f  .
+                                                                        f
+Câu 216.             t s ng d c truy n trong m t m i trường th phư ng dao đ ng c a c c ph n tử môi trường
+   A. là phư ng ngang.                                      B. là phư ng thẳng đ ng
+  C. trùng với phư ng truy n s ng                D. vu ng g c với phư ng truy n s ng
+Câu 217.    t s ng c truy n d c theo tr c Ox với phư ng trình u = 2cos 4 πt - 2πx mm. Biên đ
+c a s ng này là
+A. 2 mm.            B. 4 mm.     C. π mm.          D. 4 π mm.
+Câu 218. hi n i v s ng c , ph t biểu nào sau đây sai?
+   A.           ng c lan truy n được trong chân không.      B.       ng c lan truy n được trong chất r n
+   C.           ng c lan truy n được trong chất khí.        D.       ng c lan truy n được trong chất l ng
+Câu 219. Khi n i v s ng c , ph t biểu nào sau đây sai?
+   A.           ng c lan truy n được trong chân không.      B.       ng c lan truy n được trong chất r n
+   C.            ng c lan truy n được trong chất h          D.       ng c lan truy n được trong chất l ng
+Câu 220. Tr n m t sợi dây đang c s ng d ng, s ng truy n tr n dây c bước s ng là λ                        hoảng
+c ch giữa hai nút s ng li n tiếp bằng
+                                                                
+   A.       .                     B.  .                    C.       .                 D. 2 .
+        4                                                        2
+Câu 221.            ng c truy n được trong c c môi trường
+   A. khí, chân không và r n                                B. l ng, h và chân không.
+   C. chân không, r n và l ng                               D. r n, l ng và khí.
+Câu 222. Ở mặt nước c hai ngu n dao đ ng c ng pha theo phư ng thẳng đ ng, tạo ra hai s ng ết
+hợp c bước s ng λ Tại những điểm c c c đại giao thoa th hiệu hoảng c ch t điểm đ tới hai
+ngu n bằng
+                                                               
+  A. k  với     = 0, ± 1, ± 2,...).                    B. k     với k = 0, ± 1, ± 2,...).
+                                                               2
+         1                                                    1
+  C.  k     với k = 0, ± 1, ± 2,...).                D.  k    với k = 0, ± 1, ± 2,...).
+         2 2                                                 2   
+
+Câu 223. Tai con người c thể nghe được những âm c t n số nằm trong hoảng
+  A. t 16 Hz đến 2            Hz.                       B. t 16 Hz đến 2           kHz.
+  C. t 16 Hz đến 2               Hz                     D. t 16 Hz đến 20 000 Hz.
+
+Câu 224.       c chiến s c ng an huấn luyện ch nghiệp v thường sử d ng
+chiếc c i như h nh ảnh b n       hi th i, c i này ph t ra âm, đ là
+  A. tạp âm.                 B. siêu âm.                C. hạ âm.                  D. âm nghe được
+Câu 225. Giao thoa ở mặt nước với hai ngu n s ng ết hợp đặt tại A và B dao đ ng đi u hòa c ng
+pha theo phư ng thẳng đ ng             ng truy n ở mặt nước c bước s ng         c tiểu giao thoa nằm tại
+những điểm c hiệu đường đi c a hai s ng t hai ngu n tới đ bằng
+  A. 2k  với = ,  1,  2, …                           B. (2k +1)  với      = 0,  1,  2, …
+  C. k  với    = ,  1,  2, …                         D. (k + 0,5)  với     = ,  1,  2, …
+Câu 226. Khi m t s ng c truy n t            h ng h vào nước th đại lượng nào sau đây h ng đ i?
+  A. T n số c a s ng         B. Tốc đ truy n s ng C. i n đ s ng                    D. ước s ng
+Câu 227. Trong s ng c , tốc đ truy n s ng là
+  A. tốc đ lan truy n dao đ ng trong m i trường truy n s ng
+  B. tốc đ c c tiểu c a c c ph n tử m i trường truy n s ng
+  C. tốc đ chuyển đ ng c a c c ph n tử m i trường truy n s ng
+  D. tốc đ c c đại c a c c ph n tử m i trường truy n s ng
+Câu 228. Hai ngu n s ng ết hợp là hai ngu n dao đ ng c ng phư ng, cùng
+  A. bi n đ nhưng h c t n số
+  B. pha ban đ u nhưng h c t n số
+  C. t n số và c hiệu số pha h ng đ i theo thời gian.
+  D. bi n đ và c hiệu số pha thay đ i theo thời gian.
+Câu 229.       t s ng c hình sin truy n trong m t môi trường Xét trên m t hướng truy n s ng,
+ hoảng c ch giữa hai ph n tử m i trường
+  A. dao đ ng c ng pha là m t ph n tư bước s ng
+  B. g n nhau nhất dao đ ng cùng pha là m t bước s ng.
+  C. dao đ ng ngược pha là m t ph n tư bước s ng
+  D. g n nhau nhất dao đ ng ngược pha là m t bước s ng
+Câu 230.       t sợi dây căng ngang đang c s ng d ng           ng truy n trên dây c bước s ng λ      hoảng
+c ch giữa hai nút li n tiếp là
+                                                         
+  A.       .                 B.  .                  C.       .                D. 2 .
+       4                                                  2
+Câu 231. Trong s ng c , s ng d c truy n được trong c c môi trường
+  A. r n, l ng và chân không.                        B. r n, l ng và khí.
+  C. r n, khí và chân không.                         D. l ng, h và chân không.
+Câu 232.        t sợi dây căng ngang đang c s ng d ng         ng truy n trên dây c bước s ng λ   hoảng
+c ch giữa hai b ng li n tiếp là
+                                                         
+  A.       .                 B.  .                  C.       .                D. 2 .
+       4                                                  2
+Câu 233. Trong s ng c , công th c liên hệ giữa tốc đ truy n s ng v, bước s ng λ chu kì T c a
+s ng là
+                                          v                        v
+  A.   vT .                B.           .        C.              .       D.   2 vT .
+                                          T                       2 T
+Câu 234.        t s ng c hình sin truy n theo tr c Ox với chu kì T. hoảng thời gian để s ng truy n
+được qu ng đường bằng m t bước s ng là
+  A. 4T.                     B. 0,5T.                C. T.                     D. 2T.
+Câu 235.        t s ng c hình sin truy n theo tr c Ox. Công th c li n hệ giữa tốc đ truy n s ng v,
+bước s ng λ và t n số f c a s ng là
+                                          v                       f
+  A.   vf .                B.           .        C.           .          D.   2 fv .
+                                          f                       v
+Câu 236.     t s ng c h nh sin truy n theo tr c Ox. Hệ th c li n hệ giữa chu và t n số c a s ng là
+                                  2                                             1
+  A. T  f .              B. T      .             C. T  2 f .           D. T  .
+                                           f                                             f
+Câu 237. Trong thí nghiệm giao thoa s ng ở mặt nước, hai ngu n ết hợp đặt tại hai điểm A và B
+dao đ ng cùng pha theo phư ng thẳng đ ng           ng truy n trên mặt nước c bước s ng là 2 cm.
+Trên đoạn thẳng A , hoảng c ch giữa hai c c tiểu giao thoa li n tiếp là
+  A. 1,0 cm.                 B. 2,0 cm.              C. 0,5 cm.                D. 4,0 cm.
+Câu 238.        t s ng c hình sin truy n trong m t môi trường với bước s ng λ Trên cùng m t
+hướng truy n s ng, hoảng c ch giữa hai điểm g n nhau nhất mà ph n tử c a m i trường tại đ
+dao đ ng ngược pha nhau là
+                                 
+  A.       .                 B.       .              C.  .                    D. 2 .
+       4                          2
+Câu 239.        cao c a âm là m t đặc trưng sinh lí c a âm g n li n với
+  A. t n số âm               B. cường đ âm           C. m c cường đ âm         D. đ thị dao đ ng âm.
+
+Câu 240. Tr n m t sợi dây đang c s ng d ng         iết s ng truy n tr n dây c bước s ng 3 cm
+ hoảng c ch ng n nhất t m t nút đến m t b ng là
+  A. 15 cm.                  B. 30 cm.               C. 7,5 cm.                D. 60 cm.
+Câu 241. Trong s truy n s ng c , s ng d c không truy n được trong
+  A. chất khí                      B. chất l ng                      C. chân không                     D. chất r n
+Câu 242. iết I 0 là cường đ âm chuẩn Tại điểm c cường đ âm I thì m c cường đ âm là
+
+                I                                 I                                 I0                                 I0
+  A. L  2 lg       dB  .        B. L  10 lg       dB  .        C. L  2 lg        dB  .        D. L  10 lg        dB  .
+                I0                                I0                                I                                  I
+Câu 243. Siêu âm c t n số
+  A. lớn h n 2         Hz và tai người h ng nghe được                    B. nh h n 16 Hz và tai người h ng nghe được
+  C. nh h n 16 Hz và tai người nghe được                             D. lớn h n 2         Hz và tai người nghe được
+
+Câu 244. ặc trưng nào sau đây là đặc trưng sinh lý c a âm?
+  A. T n số âm                B.    to c a âm                   C.    c cường đ âm.               D.        thị dao đ ng âm.
+
+Câu 245.          t s ng c hình sin truy n d c theo tr c Ox. Quãng đường mà s ng truy n được trong m t
+chu      bằng
+  A. ba l n bước s ng                                                B. hai l n bước s ng
+  C. m t bước s ng                               D. nửa bước s ng
+Câu 246.   t s ng c hình sin truy n theo tr c Ox. Công th c li n hệ giữa tốc đ truy n s ng v,
+bước s ng 𝜆 và chu             T c a s ng là
+                                                                              v                                 v
+  A.   v 2T .                    B.   vT .                       C.       .                      D.        .
+                                                                              T                                 T2
+Câu 247. ặc trưng nào sau đây là m t đặc trưng vật lý c a âm?
+  A. T n số âm.                    B.     cao c a âm.                C. Âm s c                         D.       to c a âm.
+
+Câu 248. Trên m t sợi dây đang c s ng d ng, hoảng c ch ng n nhất giữa m t nút và m t b ng
+là 2 cm     ng truy n tr n dây c bước s ng là
+  A. 2 cm                          B. 4 cm                           C. 1 cm                           𝐃. 8 cm
+Câu 249. Trong s truy n s ng c , chu                   dao đ ng c a m t ph n tử m i trường c s ng truy n qua
+được g i là
+  A. chu        c a s ng           B. năng lượng c a s ng C. t n số c a s ng                           D. bi n đ c a s ng
+
+Câu 250. Trong giao thoa s ng c , hai ngu n ết hợp là hai ngu n dao đ ng
+  A. c    ng bi n đ nhưng h c t n số dao đ ng
+  B. c    ng t n số nhưng h c phư ng dao đ ng
+  C. c    ng phư ng, c ng bi n đ nhưng c hiệu số pha thay đ i theo thời gian.
+  D. c    ng phư ng, c ng t n số và c hiệu số pha h ng đ i theo thời gian.
+Câu 251. đ truy n âm c gi trị lớn nhất trong môi trường nào sau đây?
+  A. Nhôm.              B. Khí ôxi.              C. ước biển                 D. Khí hiđr
+Câu 252.   t trong những đặc trưng vật lí c a âm là
+  A. âm s c                B. đ to c a âm.          C. đ cao c a âm.         D. t n số âm.
+Câu 253.      t trong những đặc trưng sinh lí c a âm là
+  A. đ cao c a âm.         B. m c cường đ âm.       C. đ thị dao đ ng âm. D. t n số âm.
+Câu 254. Trong th nghiệm giao thoa s ng ở mặt nước, hai ngu n ết hợp dao đ ng c ng pha theo
+phư ng thẳng đ ng ph t ra hai s ng c bước s ng λ          c đại giao thoa tại c c điểm c hiệu đường
+đi t hai s ng t ngu n truy n tới đ bằng
+  A.   + ,25 λ với k = 0; ± 1; ±2,…                 B. λ với     = ; ± 1; ±2,…
+  C.   + ,5 λ với    = 0; ± 1; ±2,…                 D.    + ,75 λ với k = 0; ± 1; ±2,…
+Câu 255. Trong th nghiệm giao thoa s ng ở mặt nước, hai ngu n ết hợp dao đ ng c ng pha theo
+phư ng thẳng đ ng ph t ra hai s ng c bước s ng  .        c tiểu giao thoa tại c c điểm c hiệu đường
+đi c a hai s ng t ngu n truy n tới đ bằng
+                                                                       1
+   A. k  với       = 0, ± 1, ± 2,...).                       B.  k    với k = 0, ± 1, ± 2,...).
+                                                                     4  
+
+            3                                                        1
+   C.  k    với k = 0, ± 1, ± 2,...).                     D.  k    với k = 0, ± 1, ± 2,...).
+          4                                                        2  
+Câu 256.          t trong những đặc trưng sinh lí c a âm là
+   A.       c đ cường âm        B. T n số âm                  C.       thị dao đ ng âm D. Âm s c
+Câu 257.          t s ng c h nh sin c chu           T lan truy n trong m t m i trường với tốc đ v       ước
+s ng c a s ng này
+                                          v                             v
+   A.   vT .                  B.        .                 C.        .             D.   2vT .
+                                          T                            2T
+Câu 258.          t trong những đặc trưng vật lý c a âm là
+   A.       to c a âm           B. m s c                      C.       c cường đ âm     D.      cao c a âm
+
+Câu 259.          t s ng c hình sin truy n theo chi u dư ng c a tr c Ox. hoảng c ch giữa hai điểm
+g n nhau nhất tr n x mà ph n tử m i trường ở đ dao đ ng c ng pha nhau là
+   A. hai bước s ng                                           B. m t bước s ng
+   C. m t ph n tư bước s ng                                   D. m t nửa bước s ng
+Câu 260. Thí nghiệm giao thoa s ng ở mặt nước với hai ngu n ết hợp dao đ ng cùng pha.                        ng do
+hai ngu n ph t ra c bước s ng λ                 c đại giao thoa c ch hai ngu n những đoạn d1 và d2 th a m n
+   A. d1 – d2 = nλ với n = 0, ±1, ±2,...                      B. d1 – d2 = n+ ,5 λ với n = 0, ±1, ±2,...
+   C. d1 – d2 =(n + ,25 λ với n = , ±1, ±2,...                D. d1 – d2 = 2n+ ,75 λ với n = 0, ±1, ±2,...
+Câu 261. ặc trưng nào sau đây là đặc trưng sinh lí c a âm?
+   A. T n số âm                 B.        cao c a âm          C. ường đ âm.        D.        c cường đ âm
+
+Câu 262.          t sợi dây đang c s ng d ng n định            ng truy n trên dây c bước s ng là 12 cm
+  hoảng c ch giữa hai nút li n tiếp là
+A. 6 cm.         B. 3 cm.       C. 4 cm.          D. 12 cm.
+
+Câu 263. Trong s truy n s ng c , t n số dao đ ng c a m t ph n tử m i trường c s ng truy n qua
+được g i là
+   A. bi n đ c a s ng           B. tốc đ truy n s ng          C. t n số c a s ng        D. năng lượng s ng
+Câu 264.      ặc trưng nào sau đây không phải là đặc trưng vật lí c a âm?
+   A. ường đ âm                 B. T n số âm                  C.       to c a âm        D.       c cường đ
+âm.
+
+Câu 265. Trong th nghiệm giao thoa s ng ở mặt chất l ng, tại hai điểm 1 và S2 c hai ngu n dao
+đ ng cùng pha theo phư ng thẳng đ ng, ph t ra hai s ng ết hợp c bước s ng 1,2 cm. Trên đoạn
+thẳng S1S2 hoảng c ch giữa hai c c tiểu giao thoa li n tiếp bằng
+  A. 0,3 cm.                  B. 1,2 cm.              C. 0,6 cm.                     D. 2,4 cm.
+Câu 266. Trong s truy n s ng c , bi n đ dao đ ng c a c c ph n tử m i trường c s ng truy n
+qua được g i là
+  A. chu      c a s ng        B. bi n đ c a s ng      C. tốc đ truy n s ng     D. năng lượng s ng
+
+Câu 267.     ặc trưng nào sau đây không phải là đặc trưng sinh lí c a âm?
+  A.       to c a âm.         B.        cao c a âm.   C. ường đ âm.            D. Âm s c
+Câu 268. Khi m t nhạc c ph t ra m t âm c bản c t n số đo thì nhạc c đ đ ng thời ph t ra m t
+loạt c c h a âm c t n số 2f0, 3f0, 4f0 H a âm th hai c t n số là
+  A. 4f0.                     B. f0.                  C. 3f0.                  D. 2f0.
+Câu 269. Trong s truy n s ng c , tốc đ lan truy n dao đ ng trong m i trường được g i là
+  A. bước s ng                B. bi n đ c a s ng      C. năng lượng s ng       D. tốc đ truy n s ng
+
+Câu 270. Âm c t n số lớn h n 20 000 Hz được g i là
+  A. hạ âm và tai người h ng nghe được.               B. âm nghe được (âm thanh).
+  C. siêu âm và tai người h ng nghe được.             D. hạ âm và tai người nghe được.
+Câu 271. Âm c t n số nh h n 16 Hz được g i là
+  A. âm nghe được âm thanh).                          B. siêu âm và tai người nghe được
+  C. si u âm và tai người h ng nghe được              D. hạ âm và tai người h ng nghe được
+Câu 272.       ng c     h ng truy n được trong
+  A. chân không.              B. s t.                 C. không khí.            D. nước.
+Câu 273.       t s ng c hình sin truy n trong m t môi trường       ước s ng 𝜆 là quãng đường mà sông
+truy n được trong
+  A. m t chu kì.              B. m t nửa chu kì.      C. m t ph n tư chu kì. D. hai chu kì.
+Câu 274. Hai ngu n s ng ết hợp là hai ngu n dao đ ng
+  A. c ng phư ng, c ng chu kì và c hiệu số pha h ng đ i theo thời gian.
+  B. c ng phư ng, h c chu          và c hiệu số pha thay đ i theo thời gian.
+  C. h c phư ng, c ng chu          và c hiệu số pha h ng đ i theo thời gian.
+  D. h c phư ng, h c chu           và c hiệu số pha thay đ i theo thời gian.
+Câu 275.       ng truy n trên m t sợi dây c hai đ u cố định với bước s ng 𝜆.     uốn c s ng d ng
+tr n dây th chi u dài 𝓁 c a dây th a m n c ng th c nào sau đây?
+                                                             
+  A. l  k     với 𝑘 = 1,2,3,…                       B. l  k   với 𝑘 = 1,2,3,…
+             2                                                4
+                                                             𝜆
+             2                                               4
+  C. l  k       với 𝑘 = 1,2,3,…                     D. l  k với 𝑘 = 1,2,3,…
+                                                            
+Câu 276.          t nhạc c ph t ra âm c bản hay h a âm th nhất c t n số 𝑓0 = 440 Hz, nhạc c đ
+c ng đ ng thời ph t ra m t loạt âm c t n số 2𝑓0, 3𝑓0, 4𝑓0 … g i là c c h a âm th hai, th ba, th
+tư,. hạc c này c thể ph t ra h a âm c t n số nào sau đây?
+  A. 1320 Hz.                   B. 1000 Hz.          C. 660 Hz.                  D. 220 Hz.
+Câu 277. Âm c t n số nằm trong hoảng t 16 Hz đến 20000 Hz được g i là
+  A. siêu âm và tai người nghe được                  B. âm nghe được (âm thanh).
+  C. siêu âm và tai người h ng nghe được             D. hạ âm và tai người nghe được
+Câu 278.          t sợi dây m m PQ căng ngang c đ u Q g n chặt vào tường         t s ng tới hình sin
+truy n trên dây t đ u P tới Q. ến Q, s ng bị phản xạ trở lại truy n t Q v P g i là s ng phản xạ
+Tại Q, s ng tới và s ng phản xạ
+                                                                        
+  A. lệch pha nhau          .   B. ngược pha nhau.   C. lệch pha nhau        .   D. cùng pha nhau.
+                        2                                                4
+
+Câu 279.         oạn mạch điện xoay chi u g m điện trở thu n R, cu n dây thu n cảm cảm thu n L
+và t điện C m c nối tiếp Kí hiệu uR, uL, uC tư ng ng là hiệu điện thế t c thời ở hai đ u c c
+ph n tử R, L và C. Quan hệ v pha c a c c hiệu điện thế này là
+  A. uR trễ pha π/2 so với uC.                       B. uC trễ pha π so với uL.
+  C. uL sớm pha π/2 so với uC..                      D. uR sớm pha π/2 so với uL.
+Câu 280. Dòng điện xoay chi u trong đoạn mạch ch c điện trở thu n
+  A. c ng t n số với hiệu điện thế ở hai đ u đoạn mạch và c pha ban đ u lu n bằng 0.
+  B. c ng t n số và cùng pha với hiệu điện thế ở hai đ u đoạn mạch
+  C. lu n lệch pha π/2 so với hiệu điện thế ở hai đ u đoạn mạch
+  D. c gi trị hiệu d ng t lệ thuận với điện trở c a mạch
+Câu 281. oạn mạch điện xoay chi u A ch ch a m t trong c c ph n tử: điện trở thu n, cu n dây
+hoặc t điện Khi đặt hiệu điện thế u = U0sin ωt +π/6 lên hai đ u A và B thì dòng điện trong mạch
+c biểu th c i = 0sin ωt - π/3        oạn mạch A ch a
+  A. cu n dây thu n cảm cảm thu n                    B. điện trở thu n
+  C. t điện                                          D. cu n dây c điện trở thu n
+Câu 282. ặt vào hai đ u đoạn mạch RLC không phân nh nh m t hiệu điện thế xoay chi u u =
+U0sinωt th d ng điện trong mạch là i = 0 sin ωt + π/6       oạn mạch điện này lu n c
+  A. ZL < ZC.                   B. ZL = ZC           C. ZL = R.                  D. ZL > ZC.
+Câu 283. Trong m t đoạn mạch điện xoay chi u ch c t điện thì hiệu điện thế ở hai đ u đoạn mạch
+  A. sớm pha π/2 so với cường đ d ng điện            B. sớm pha π/4 so với cường đ d ng điện
+  C. trễ pha π/2 so với cường đ dòng điện            D. trễ pha π/4 so với cường đ d ng điện
+Câu 284. ặt hiệu điện thế u = U0sinωt U0 h ng đ i vào hai đ u đoạn mạch               h ng phân
+nh nh     iết điện trở thu n c a mạch không đ i Khi c hiện tượng c ng hưởng điện trong đoạn
+mạch, ph t biểu nào sau đây sai?
+  A. ường đ hiệu d ng c a d ng điện trong mạch đạt gi trị lớn nhất
+  B. Hiệu điện thế t c thời ở hai đ u đoạn mạch cùng pha với hiệu điện thế t c thời ở hai đ u điện trở
+  R.
+  C. ảm h ng và dung h ng c a đoạn mạch bằng nhau.
+  D. Hiệu điện thế hiệu d ng ở hai đ u điện trở   nh h n hiệu điện thế hiệu d ng ở hai đ u đoạn mạch
+Câu 285. Trong m t đoạn mạch điện xoay chi u không phân nh nh, cường đ dòng điện sớm pha
+φ với    < φ < ,5π so với hiệu điện thế ở hai đ u đoạn mạch       oạn mạch đ
+  A. g m điện trở thu n và t điện
+  B. ch c cu n cảm
+  C. g m cu n thu n cảm cảm thu n và t điện
+  D. g m điện trở thu n và cu n thu n cảm cảm thu n
+Câu 286. ặt m t hiệu điện thế xoay chi u c gi trị hiệu d ng không đ i vào hai đ u đoạn mạch
+        h ng phân nh nh Hiệu điện thế giữa hai đ u
+  A. đoạn mạch lu n cùng pha với d ng điện trong mạch
+  B. cu n dây lu n ngược pha với hiệu điện thế giữa hai đ u t điện
+  C. cu n dây lu n vu ng pha với hiệu điện thế giữa hai đ u t điện
+  D. t điện lu n c ng pha với d ng điện trong mạch
+Câu 287. ếu trong m t đoạn mạch điện xoay chi u h ng phân nh nh, cường đ d ng điện trễ
+pha so với hiệu điện thế giữa hai đ u đoạn mạch, th đoạn mạch này g m
+  A. t điện và biến trở
+  B. cu n dây thu n cảm và t điện với cảm h ng nh h n dung h ng
+  C. điện trở thu n và t điện
+  D. điện trở thu n và cu n cảm
+Câu 288. oạn mạch điện xoay chi u không phân nh nh g m cu n dây c đ t cảm L, điện trở
+                                                                   1
+thu n R và t điện c điện dung       hi d ng điện c t n số g c         chạy qua đoạn mạch th hệ số
+                                                                   LC
+công suất
+c a đoạn mạch này
+  A. ph thu c điện trở thu n c a đoạn mạch           B. bằng 0.
+  C. ph thu c t ng trở c a đoạn mạch                 D. bằng 1.
+Câu 289. Cho đoạn mạch g m điện trở thu n R nối tiếp với t điện c điện dung C. Khi dòng điện
+xoay chi u c t n số g c  chạy qua th t ng trở c a đoạn mạch là
+
+                          2                             2
+
+   A. R  
+              1                           1 
+                                                                 R 2  C  .             R 2  C  .
+                                                                             2                            2
+          2
+                 .               B.   R 
+                                        2
+                                                .          C.                       D.
+            C                           C 
+Câu 290. Trong đoạn mạch điện xoay chi u g m điện trở thu n, cu n cảm thu n và t điện m c nối
+tiếp th
+   A. điện p giữa hai đ u t điện ngược pha với điện p giữa hai đ u đoạn mạch
+   B. điện p giữa hai đ u cu n cảm c ng pha với điện p giữa hai đ u t điện
+   C. điện p giữa hai đ u t điện trễ pha so với điện p giữa hai đ u đoạn mạch
+   D. điện p giữa hai đ u cu n cảm trễ pha so với điện p giữa hai đ u đoạn mạch
+Câu 291 ặt điện p xoay chi u u  U 0 cos 2 ft , c U 0 không đ i và f thay đ i được vào hai đ u
+
+đoạn mạch c           , ,     m c nối tiếp     hi f  f 0 th trong đoạn mạch c c ng hưởng điện            i trị c a
+
+f 0 là
+
+          2                            2                        1                          1
+   A.        .                    B.       .                C.      .                D.           .
+          LC                            LC                       LC                       2 LC
+Câu 292. Khi đ ng c không đ ng b ba pha hoạt đ ng n định, t trường quay trong đ ng c c
+t n số
+   A. bằng t n số c a dòng điện chạy trong c c cu n dây c a stato.
+   B. lớn h n t n số c a d ng điện chạy trong c c cu n dây c a stato.
+   C. c thể lớn h n hay nh h n t n số c a d ng điện chạy trong c c cu n dây c a stato, tùy vào tải
+   D. nh h n t n số c a d ng điện chạy trong c c cu n dây c a stato.
+Câu 293. Trong đoạn mạch điện xoay chi u g m điện trở thu n m c nối tiếp với cu n cảm thu n,
+so với điện p hai đ u đoạn mạch th cường đ d ng điện trong mạch c thể
+                                                                                               
+   A. trễ pha         .           B. sớm pha        .       C. sớm pha           .   D. trễ pha       .
+                  2                             4                        2                        4
+Câu 294.       iện p giữa hai đ u m t đoạn mạch là u = 150cos100  t (V).            m i giây c bao nhiêu
+l n điện p này bằng h ng?
+  A. 100 l n               B. 50 l n                        C. 200 l n               D. 2 l n
+Câu 295.     y biến p là thiết bị
+   A. biến đ i t n số c a d ng điện xoay chi u
+   B. c       hả năng biến đ i điện p c a d ng điện xoay chi u
+   C. làm tăng c ng suất c a dòng điện xoay chi u
+   D. biến đ i d ng điện xoay chi u thành d ng điện m t chi u
+Câu 296.         t m y tăng p c cu n th cấp m c với điện trở thu n, cu n s cấp m c vào ngu n điện
+xoay chi u T n số d ng điện trong cu n th cấp
+  A. lu n lớn h n t n số d ng điện trong cu n s cấp
+  B. lu n nh h n t n số d ng điện trong cu n s cấp
+  C. bằng t n số d ng điện trong cu n s cấp
+  D. c thể nh h n hoặc lớn h n t n số d ng điện trong cu n s cấp.
+Câu 297.      t đoạn mạch điện xoay chi u g m m t t điện và m t cu n cảm thu n m c nối tiếp
+lệch pha giữa điện p ở hai đ u t điện và điện p ở hai đ u đoạn mạch bằng
+                                                                                               
+  A.                        B. hoặc                 C.                       D.        hoặc 
+     2                                                 2                            6             6
+Câu 298. iện p u  141 2 cos100 t V  c gi trị hiệu d ng bằng
+  A. 141 V.                 B. 200 V.                C. 100 V.                 D. 282 V.
+
+                                            
+Câu 299. ặt điện p u  U 0 cos 100 t          V  vào hai đ u đoạn mạch ch c t điện th cường đ dòng
+                                             4
+điện trong mạch là i  I 0 cos 100 t   V  . i trị c a φ bằng
+       3                                                  3                          
+  A.      .                 B.       .               C.       .               D.        .
+        4                        2                           4                          2
+Câu 300. ặt điện p u  U 0 cos t V  vào hai đ u điện trở thu n R. Tại thời điểm điện p giữa hai
+đ u    c gi trị c c đại th cường đ d ng điện qua          bằng
+       U0                        U0 2                     U0
+  A.      .                 B.        .              C.      .                 D. 0 .
+       R                          2R                      2R
+Câu 301. Trong đoạn mạch điện xoay chi u ch c điện trở thu n, cường đ dòng điện trong mạch
+và điện p ở hai đ u đoạn mạch lu n
+  A. lệch pha nhau 600      B. ngược pha nhau        C. cùng pha nhau          D. lệch pha nhau 9     0
+
+
+
+Câu 302. iện p u = 100cos314t (u t nh bằng V, t t nh bằng s c t n số g c bằng
+  A.100 rad/s.              B. 157 rad/s.            C. 50 rad/s.              D. 314 rad/s.
+Câu 303. ường đ d ng điện i = 2cos100  t (A) c gi trị c c đại là
+  A. 2 A.                   B. 2,82 A.               C. 1 A.                   D. 1,41 A.
+Câu 304.      y biến p là thiết bị
+  A. biến đ i d ng điện xoay chi u thành d ng điện m t chi u
+  B. biến đ i t n số c a d ng điện xoay chi u
+  C. c     hả năng biến đ i điện p xoay chi u
+  D. làm tăng c ng suất c a dòng điện xoay chi u
+Câu 305. ặt m t điện p xoay chi u c gi trị hiệu d ng U vào hai đ u đoạn mạch RLC nối tiếp,
+cường đ dòng điện trong đoạn mạch c gi trị hiệu d ng là I và lệch pha so với điện p giữa hai
+đ u đoạn mạch m t g c φ          ng suất ti u th điện c a đoạn mạch là
+  A. UI.                    B. U sinφ                C. U cosφ                           D. U tanφ
+Câu 306.      t trạm th y điện nh ở x       àn   a, huyện X n       n, t nh Hà iang c m t m y ph t
+điện xoay chi u m t pha với rôto là nam châm c p cặp c c Khi rôto quay đ u với tốc đ n
+vòng/giây thì t th ng qua m i cu n dây c a stato biến thi n tu n hoàn với t n số bao nhi u Hz?
+            60 p                                                     np                           60n
+   A. f         .             B. f  np .                  C. f       .                D. f        .
+             n                                                       60                            p
+Câu 307. oạn mạch xoay chi u RLC nối tiếp đang c dung h ng lớn h n cảm h ng                               ể c c ng
+hưởng điện th c thể
+
+   A. giảm điện dung c a t điện                             B. giảm đ t cảm c a cu n dây.
+   C. tăng điện trở đoạn mạch                               D. tăng t n số d ng điện
+Câu 308. Ở Việt am, mạng điện dân d ng m t pha c điện p hiệu d ng là
+
+  A. 220 2 V          B. 100 V                           C. 220 V                        D. 100 2 V.
+Câu 309. ường đ d ng điện i = 2cos1               πt V c pha tại thời điểm t là
+  A. 5 πt                 B. 1 πt                          C. 0                     D. 7 πt
+Câu 310. ặt điện p u  U 0 cos t với U 0            h ng đ i,  thay đ i vào hai đ u đoạn mạch nối tiếp g m
+
+điện trở R, cu n cảm thu n c đ t cảm L và t điện c điện dung C. Khi   0 trong mạch c c ng
+
+hưởng điện T n số g c 0 là
+
+                                        2                        1
+   A. 2 LC .                   B.          .                C.      .                    D.   LC .
+                                        LC                       LC
+Câu 311. uất điện đ ng cảm ng do m y ph t điện xoay chi u m t pha tạo ra c biểu th c
+
+ e  220 2 cos 100 t  0, 25 V       i trị c c đại c a suất điện đ ng này là
+
+   A. 220 2 V                  B. 100 V                     C. 220 V                     D. 100 2 V.
+Câu 312. ặt điện p xoay chi u vào hai đ u đoạn mạch ch c điện trở thì
+   A. ường đ d ng điện trong đoạn mạch cùng pha với điện p giữa hai đ u đoạn mạch
+   B. ường đ d ng điện trong đoạn mạch trễ pha ,5π so với điện p giữa hai đ u đoạn mạch
+   C. ường đ d ng điện hiệu d ng trong đoạn mạch ph thu c vào t n số c a điện p
+   D. ường đ d ng điện trong đoạn mạch sớm pha ,5π so với điện p giữa hai đ u đoạn mạch
+Câu 313.       t trong những biện ph p làm giảm hao phí điện năng trên đường dây tải điện khi truy n
+tải điện năng đi xa đang được p d ng r ng r i là
+   A. giảm tiết diện dây truy n tải điện                    B. tăng chi u dài đường dây truy n tải điện
+   C. giảm điện p hiệu d ng ở trạm ph t điện                D. tăng điện p hiệu d ng ở trạm ph t điện
+Câu 314. ặt điện p u = Uocosωt (Uo không đ i, ω thay đ i được vào hai đ u đoạn mạch g m
+điện trở , cu n cảm thu n c đ t cảm                  và t điện c điện dung         m c nối tiếp Hiện tượng c ng
+hưởng điện xảy ra hi
+                                                                             1
+   A.  2 LCR  1  0 .        B.  2 LC  1  0 .          C. R   L        .         D.  2 LC  R  0 .
+                                                                            C
+Câu 315. uất điện đ ng cảm ng do m y ph t điện xoay chi u m t pha tạo ra c biểu th c
+
+ e  220 2 cos 100 t  0,5 V       i trị hiệu d ng c a suất điện đ ng này là
+  A. 220 2 V           B. 100 V                C. 220 V                D. 100 2 V.
+Câu 316. ặt điện p xoay chi u c gi trị hiệu d ng U và t n số g c ω vào hai đ u đoạn mạch ch
+c t điện         iện dung c a t điện là        ường đ d ng điện hiệu d ng trong đoạn mạch bằng
+        U                                                                             U
+   A.      .                  B. U C 2 .               C. UC .                 D.       .
+        C2                                                                             C
+Câu 317. Trong m t m y ph t điện xoay chi u m t pha, r to là nam châm c p cặp c c p c c b c
+và p c c nam quay với tốc đ n n t nh bằng v ng/s T n số c a suất điện đ ng do m y ph t này
+tạo ra bằng
+
+               60 p                                                np                         60n
+   A. f            .         B. f  np .               C. f         .          D. f            .
+                n                                                  60                          p
+Câu 318. iện p xoay chi u giữa hai đ u m t đoạn mạch c biểu th c u = 311cos 1                     πt + π V
+  i trị c c đại c a điện p này bằng
+   A. 622 V.                  B. 220 V.                 C. 311 V.                D. 440 V.
+Câu 319. Trong bài th c hành hảo s t đoạn mạch điện xoay chi u c           , ,        m c nối tiếp, để đo
+điện p hiệu d ng giữa hai đ u cu n dây, người ta d ng
+A. ampe ế xoay chi u m c nối tiếp với cu n dây.         B. ampe ế xoay chi u m c song song với cu n dây.
+C. v n ế xoay chi u m c nối tiếp với cu n dây           D. v n ế xoay chi u m c song song với cu n dây
+
+Câu 320. ặt điện p u = U0cos2ωt ω >               vào hai đ u cu n cảm thu n c đ t cảm                ảm
+  h ng c a cu n cảm lúc này là
+
+                                       1                                               1
+   A.  L .                   B.           .            C. 2 L .                D.      .
+                                   2 L                                               L
+Câu 321. m y ph t điện xoay chi u ba pha đang hoạt đ ng b nh thường, ba suất điện đ ng xuất
+hiện trong ba cu n dây c a m y c cùng t n số, cùng biên đ và t ng đ i m t lệch pha nhau m t
+g c
+        2                                                                           3
+   A.      .                  B.       .                C.     .                 D.       .
+         3                         2                         3                          4
+Câu 322. ặt điện p xoay chi u vào hai đ u đoạn mạch g m điện trở R và t điện C m c nối tiếp
+th dung h ng c a t điện là ZC Hệ số c ng suất c a đoạn mạch là
+           R 2  ZC2                      R                  R 2  ZC2                         R
+  A.                   .         B.                 .   C.               .            D.                 .
+             R                         R 2  Z C2                R                          R 2  Z C2
+
+                                                                                 2
+Câu 323. Dòng điện xoay chi u qua m t đoạn mạch c cường đ i  4 cos                  A  , với T > 0).      ại
+                                                                                 T
+lượng T được g i là
+  A. t n số g c c a dòng điện                           B. chu       c a dòng điện.
+  C. t n số c a dòng điện                               D. pha ban đ u c a dòng điện
+Câu 324. ặt điện p xoay chi u vào hai đ u đ an mạch c R, L, C m c nối tiếp Khi trong đoạn
+mạch c c ng hưởng điện th điện p giữa hai đ u đoạn mạch
+  A. lệch pha 900 so với cường đ d ng điện trong mạch
+  B. trễ pha 600 so với d ng điện trong mạch
+  C. cùng pha với cường đ d ng điện trong mạch
+  D. sớm pha 300 so với cường đ d ng điện trong mạch
+Câu 325. ặt điện p xoay chi u u = U√2cos(  t +  ) ω > 0) vào hai đ u đoạn mạch c R, L, C
+m c nối tiếp           i   và l n luợt là t ng trở c a đoạn mạch và cường đ d ng điện hiệu d ng trong
+đoạn mạch
+Hệ th c nào sau đây đúng?
+  A. Z  I 2U .           B. Z  IU .                   C. U  IZ .                   D. U  I 2 Z .
+
+Câu 326. Dòng điện xoay chi u qua m t đoạn mạch c cường đ i  4cos 2 f  A , với f > 0). ại
+lượng f được g i là
+  A. pha ban đ u c a dòng điện                          B. t n số c a dòng điện
+  C. t n số g c c a dòng điện                  D. chu c a dòng điện
+Câu 327. iện năng được truy n t m t trạm ph t điện đến n i tiêu th bằng đường dây tải điện m t
+pha    iết c ng suất truy n đi h ng đ i và coi hệ số c ng suất c a mạch điện bằng 1                 ể c ng suất
+hao ph tr n đường dây truy n tải giảm n l n n > 1 th phải đi u ch nh điện p hiệu d ng ở trạm
+ph t điện
+  A. tăng l n n2 l n             B. giảm đi n2 l n      C. giảm đi n l n              D. tăng lên n l n
+Câu 328. ặt điện p xoay chi u c gi trị hiệu d ng h ng đ i và t n số g c ω thay đ i được vào
+hai đ u đoạn mạch g m điện trở R, cu n cảm thu n c đ t cảm L và t điện c điện dung C m c
+nối tiếp     i u iện để cường đ d ng điện hiệu d ng trong đoạn mạch đạt gi trị c c đại là
+  A.  2 LC  R .                B.  2 LC  1 .        C. LC  R .                  D. LC  1.
+Câu 329.       ặt điện p xoay chi u vào hai đ u m t đoạn mạch g m điện trở R, cu n cảm thu n và
+t điện m c nối tiếp           iết cảm h ng và dung h ng c a đoạn mạch l n lượt là Z L và ZC Hệ số
+
+c ng suất c a đoạn mạch là
+          R 2   Z L  ZC                                                   R 2   Z L  ZC 
+                               2                                                                   2
+                                                      R                                                                  R
+  A.                               .   B.                          .   C.                              .   D.                           .
+                  R                         R   Z L  ZC                           R                          R   Z L  ZC 
+                                              2                2                                                   2                2
+
+
+
+Câu 330. ặt điện p xoay chi u vào hai đ u đoạn mạch g m điện trở R, cu n cảm thu n và t điện
+m c nối tiếp           iết cu n cảm c cảm h ng Z L và t điện c dung h ng ZC T ng trở c a đoạn
+
+mạch là
+
+          R 2   Z L  ZC  .              R 2   Z L  ZC  .              R 2   Z L  ZC  .               R 2   Z L  ZC  .
+                            2                                 2                                2                                  2
+  A.                                   B.                              C.                                  D.
+
+Câu 331. ặt điện p xoay chi u vào hai đ u m t đoạn mạch m c nối tiếp g m điện trở R và cu n
+cảm thu n th cảm h ng c a cu n cảm là Z L Hệ số c ng suất c a đoạn mạch là
+
+          R 2  Z L2                              R                           R 2  Z L2                            R
+  A.                    .              B.                 .            C.                  .               D.                 .
+             R                              R 2  Z L2                           R                               R 2  Z L2
+
+Câu 332. ặt điện p xoay chi u vào hai đ u đoạn mạch g m điện trở, cu n cảm thu n và t điện
+m c nối tiếp           iết cảm h ng c a cu n cảm là Z L , dung h ng c a t điện là ZC                               ếu Z L  ZC th
+
+điện p giữa hai đ u đoạn mạch
+  A. lệch pha 900 so với cường đ dòng điện trong đoạn mạch
+  B. trễ pha 300 so với cường đ d ng điện trong đoạn mạch
+  C. sớm pha 600 so với cường đ d ng điện trong đoạn mạch
+  D. cùng pha với cường đ d ng điện trong đoạn mạch
+
+Câu 333. ặt điện p xoay chi u u = U√2cos(  t +  ) (U > 0, ω > 0) vào hai đ u cu n cảm thu n c
+đ t cảm            ường đ d ng điện hiệu d ng trong cu n cảm là
+
+       U 2                                                                                                      U
+  A.       .                           B.   2U  L .                   C. UL .                            D.      .
+        L                                                                                                      L
+Câu 334. Ở Việt am, mạng điện xoay chi u dân d ng c t n số là
+  A. 5 π Hz.                           B. 1 π Hz.                      C. 100 Hz.                          D. 50 Hz.
+                                                                                                           
+Câu 335. Khi t thông qua m t khung dây dẫn c biểu th c    0 cos  t                                    thì trong khung dây
+                                                                                                          2
+xuất hiện m t suất điện đ ng cảm ng c biểu th c e  E0 cos t    . iết  0 , E0 và ω là c c hằng
+
+số dư ng         i trị c a  là
+                                                                             
+  A.     rad.                          B. 0 rad.                       C.      rad.                       D. π rad.
+       2                                                                      2
+
+Câu 336. Khi đặt điện p u = 220 2 cos1                        tπt(V) (t tính bằng s) vào hai đ u m t điện trở th t n
+số g c c a d ng điện chạy qua điện trở này là
+  A. 5 π rad/s.                        B. 50 rad/s.                    C. 100π rad/s.                      D. 100rad/s.
+Câu 337. guy n t c hoạt đ ng c a m y ph t điện xoay chi u d a tr n hiện tượng
+  A. quang điện trong.      B. quang điện ngoài.      C. c ng hưởng điện          D. cảm ng điện t
+Câu 338. uất điện đ ng e = 1 cos 1 πt + π V c gi trị c c đại là
+
+  A. 50 2 V              B. 100 2 V               C. 100 V.               D. 50 V.
+Câu 339. Trong qu trình truy n tải điện năng đi xa, để giảm c ng suất hao phí trên đường dây
+truy n tải th người ta thường sử d ng biện ph p nào sau đây?
+  A. iảm tiết diện dây dẫn                            B. Tăng điện p hiệu d ng ở n i ph t điện
+  C. iảm điện p hiệu d ng ở n i ph t điện    D. Tăng chi u dài dây dẫn
+Câu 340. iện p u = 110 2 cos1 πt (V) c gi trị hiệu d ng là
+
+  A. 110 V.             B. 110 2 V.            C. 100 V.             D. 1 π V.
+Câu 341.    t m y biến p l tưởng đang hoạt đ ng n định h t biểu nào sau đây sai?
+  A. T n số c a điện p ở hai đ u cu n s cấp và ở hai đ u cu n th cấp lu n bằng nhau.
+  B.     y biến p c t c d ng làm biến đ i điện p xoay chi u
+  C. guy n t c hoạt đ ng c a m y biến p d a trên hiện tượng cảm ng điện t
+  D. ường đ d ng điện hiệu d ng trong cu n s cấp và trong cu n th cấp luôn bằng nhau.
+Câu 342. ặt vào hai đ u điện trở m t điện p xoay chi u c gi trị hiệu d ng không đ i và t n số f
+thay đ i được     ếu tăng f th c ngsuất ti u th c a điện trở
+  A. Tăng r i giảm     B. Không đ i         C. giảm                D. tăng
+Câu 343. u n s cấp và cu n th cấp c a m t m y biến p l tưởng c số v ng dây l n lượt là               1
+và N2. ặt điện p xoay chi u c gi trị hiệu d ng U1 vào hai đ u cu n s cấp thì điện p hiệu d ng
+giữa hai đ u cu n th cấp để hở là U2 Hệ th c đúng là
+       U1 N 2                    U1                                                    U 1 N1
+  A.         .             B.       U 2 N2 .        C. U1U 2  N1 N 2 .         D.         .
+       U 2 N1                    N1                                                    U 2 N2
+
+Câu 344. Dòng điện xoay chi u trong m t đoạn mạch c cường đ là i = Iocos ωt + φ ω > 0). ại
+lượng ω được g i là
+  A. cường đ d ng điện c c đại                        B. chu     c a dòng điện
+  C. t n số g c c a dòng điện                         D. pha c a dòng điện
+                                                
+Câu 345. ường đ dòng điện i  4 cos 120 t        A  c pha ban đ u là
+                                                3
+                                                                         
+  A. 4 rad                  B. 12 π rad               C. 120 t        rad  rad  D.
+                                                           3               3
+Câu 346.     hảo s t th c nghiệm m t m y biến p c cu n s cấp A và cu n th cấp B. u n A được
+nối với mạng điện xoay chi u c điện p hiệu d ng h ng đ i                u n   g mc c
+vòng dây quấn c ng chi u, m t số điểm trên B được nối ra c c chốt m, n, p, q
+như h nh b n      ố ch c a v n ế V c gi tr nh nhất hi h a                 ở chốt nào
+sau đây?
+  A. hốt m                    B. hốt q
+  C. hốt p                    D. hốt n
+Câu 347.        ối liên hệ giữa cường đ hiệu d ng I và cường đ c c đại 𝐼0 cùa dòng điện xoay chi u
+hình sin là:
+                                           I0                      I0
+  A. I  I 0 2 .              B. I           .         C. I           .                D. I  2 I 0 .
+                                           2                        2
+Câu 348. Trong m y ph t điện xoay chi u ba pha đang hoạt đ ng bình thường                       c suất điện đ ng
+cảm ng trong ba cu n dây c a ph n ng t ng đ i m t lệch pha nhau
+         2                                                                                 3
+  A.        .                 B.       .                C.     .                         D.      .
+          3                        2                         3                                 4
+
+Câu 349. hảo s t th c nghiệm m t m y biến p c cu n s cấp A và cu n th cấp B. u n A được
+nối với mạng điện xoay chi u c điện p hiệu d ng h ng đ i                    u n   g m c c v ng
+dây quấn c ng chi u, m t số điểm trên B được nối ra c c chốt m, n, p, q như
+h nh b n        ố ch c a v n ế V c gi trị lớn nhất hi h a               ở chốt nào sau
+đây?
+  A. hốt n.                   B. hốt q.
+  C. hốt m.                   B. hốt p.
+Câu 350.         t m y tăng p l tưởng c số v ng dây c a cu n s cấp và cu n th cấp l n lượt là N1
+
+và N 2     ết luận nào sau đây đúng?
+
+  A. N2 < N1                  B. N2 > N1                C. N2 = N1                       D. N2.N1=1
+Câu 351. ặt điện p xoay chi u vào hai đ u m t đoạn mạch g m điện trở , cu n cảm thu n và t
+điện m c nối tiếp thì t ng trở c a đoạn mạch là Z. Hệ số công suất c a đoạn mạch là cos  . Công
+th c nào sau đây đúng?
+
+                 2R                               R                     Z                             Z
+  A. cos          .         B. cos              .   C. cos          .              D. cos        .
+                 Z                                Z                     R                             2R
+Câu 352.          t m y biến p l tưởng c số v ng dây c a cu n s cấp và cu n th cấp l n lượt là N1
+và N 2     ếu m y biến p này là m y hạ p th
+         N2                         N2                            1                   N2
+  A.        1.                B.      1.             C. N 2       .           D.       1.
+         N1                         N1                            N1                  N1
+
+Câu 353.          t m y biến p l tưởng đạt hoạt đ ng      i U1 và U 2 l n lượt là điện p hiệu d ng ở hai
+
+đ u cu n s cấp và ở hai đ u cu n th cấp để hở          ếu m y biến p này là m y tăng p th
+
+         U2                         U2                            1                   U2
+  A.        1.                B.      1.             C. U 2       .           D.      1.
+         U1                         U1                            U1                  U1
+Câu 354. ặt điện p xoay chi u c gi trị hiệu d ng U vào hai đ u đoạn mạch g m điện trở ,
+cu n cảm thu n và t điện m c nối tiếp th điện p hiệu d ng ở hai đ u            là U R Hệ số c ng suất
+
+c a đoạn mạch là cosφ         ng th c nào sau đây đúng?
+                  2U R                      UR                      U                            U
+  A. cos             .       B. cos        .       C. cos        .         D. cos            .
+                   U                        U                       UR                          2U R
+
+Câu 355.          t m y biến p l tưởng c số v ng dây c a cu n s cấp và cu n th cấp l m lượt là N1
+và N 2     ếu m y biến p này là m y tăng p th
+
+         N2                         N2                            1                   N2
+  A.        1.                B.      1.             C. N 2       .           D.       1.
+         N1                         N1                            N1                  N1
+Câu 356.          y ph t điện xoay chi u m t pha được cấu tạo bởi hai b phận chính là
+  A. cu n s cấp và ph n ng                             B. ph n cảm và ph n ng
+  C. cu n th cấp và ph n cảm                           D. cu n s cấp và cu n th cấp
+Câu 357.          t m y ph t điện xoay chi u m t pha, ph n cảm c p cặp c c p c c b c và p c c
+nam). Khi ph n cảm c a m y quay với tốc đ n vòng/s thì tạo ra trong ph n ng m t suất điện
+đ ng xoay chi u h nh sin        ại lượng f = pn là
+  A. t n số c a suất điện đ ng                         B. chu kì c a suất điện đ ng
+  C. suất điện đ ng hiệu d ng                          D. suất điện đ ng c c đại
+Câu 358.      ặt điện p xoay chi u vào hai đ u đoạn mạch c          , ,    m c nối tiếp th cảm h ng và
+dung h ng c a đoạn mạch l n lượt là Z L và ZC .         iện p giữa hai đ u đoạn mạch sớm pha h n
+
+cường đ d ng điện trong mạch hi
+                                                                  ZC
+  A. Z L  ZC .                B. Z L  ZC .           C. Z L       .           D. Z L  ZC .
+                                                                   2
+Câu 359.          t m y biến p lí tưởng c số vòng dây c a cu n s cấp nh h n số vòng dây c a
+cu n th cấp         hi hoạt đ ng ở chế đ c tải, m y biến p này c t c d ng làm
+  A. giảm gi trị hiệu d ng c a điện p xoay chi u           B. giảm t n số c a dòng điện xoay chi u
+   C. tăng gi trị hiệu d ng c a điện p xoay chi u                D. tăng t n số c a d ng điện xoay chi u
+
+ Câu 360. ặt điện p xoay chi u c gi trị hiệu d ng U vào hai đ u m t đoạn mạch thì cường đ
+ d ng điện hiệu d ng trong đoạn mạch là .            i 𝜑 là đ lệch pha giữa điện p hai đ u đoạn mạch và
+ cường đ d ng điện trong đoạn mạch.            ng suất ti u th      c a đoạn mạch được t nh bằng c ng
+ th c nào sau đây?
+             I                                                                                       U
+   A. P       cos  .         B. P  UI cos 2  .          C. P  UI cos  .               D. P      cos 2  .
+             U                                                                                       I
+ Câu 361. ặt m t điện p xoay chi u vào hai đ u đoạn mạch g m điện trở 𝑅, cu n cảm thu n và t
+ điện m c nối tiếp th cường đ d ng điện hiệu d ng trong đoạn mạch là 𝐼                      ng suất t a nhiệt       tr n
+ 𝑅 được t nh bằng c ng th c nào sau đây?
+
+ A. P  IR 2 . B. P  I 2 R2 . C. P  I 2 R . D. P  IR .
+ Câu 362.       ng điện xoay chi u chạy qua m t đoạn mạch c cường đ c c đại là 𝐼0                        ại lư ng
+     I0
+          được g i là
+      2
+   A. điện p c c đại giữa hai đ u đoan mạch                 B. điện p hiệu dung giữa hai đ u đoạn mạch
+   C. cường đ hiệu d ng c a dòng điện                       D. cường đ t c thời c a dòng điện
+ Câu 363. ăt m t điện p xoay chi u vào hai đ u m t đoạn mạch g m điện trở 𝑅, cu n cảm thu n 𝐿
+ và t điện 𝐶 m c nối tiếp      iết điện p hiệu d ng giữa hai đ u 𝑅, hai đ u 𝐿 và hai đ u 𝐶 l n lượt là
+ 𝑈𝑅, U và 𝑈𝐶.       lệch pha 𝜑 giữa điện p hai đ u đoạn mạch và cường đ dòng điện trong đoạn
+ mạch được x c định bằng c ng th c nào sau đây?
+
+                U L  UC                    UL UR                       U L  UC                        UL UR
+   A. tan              .     B. tan            .        C. tan              .         D. tan            .
+                   UR                         UC                            UR                             UC
+ Câu 364. ặt m t điện p xoay chi u vào hai đ u m t đoạn mạch c                        , ,    m c nối tiếp th cảm
+  h ng và dung h ng c a đoạn mạch l n lượt là 𝑍𝐿 và 𝑍𝐶. ếu 𝑍𝐿 = 𝑍𝐶 th đ lệch pha 𝜑 giữa điện
+  p hai đ u đoạn mạch và cường đ d ng điện trong đoạn mạch c gi trị nào sau đây?
+                                              
+A.   0 .      B.    .   C.   .     D.   .
+                      4            2            3
+ Câu 365.     ặt m t điện p xoay chi u c gi trị hiệu d ng không đ i, t n số f thay đ i được vào hai
+ đ u đoạn mạch           g m t điện m c nối tiếp với ampe ế A ampe ế nhiệt như h nh
+ bên. hi tăng t n số f th số ch c a ampe ế thay đ i như thế nào?
+   A. iảm.                     B. Tăng.
+   C. iảm r i tăng.            D. Tăng r i giảm.
+ Câu 366.      ặt m t điện p xoay chi u c gi trị hiệu d ng h ng đ i, t n số 𝑓
+ thay đ i được vào hai đ u đoạn mạch            g m cu n cảm thu n 𝐿 m c nối tiếp với
+ ampe ế 𝐴 (ampe ế nhiệt như h nh bên. Khi tăng t n số 𝑓 thì số ch c a ampe ế
+ thay đ i như thế nào?
+   A. iảm                       B. iảm r i tăng       C. Tăng               D. Tăng r i giảm
+Câu 367.       ặt m t điện p xoay chi u c gi trị hiệu d ng h ng đ i, t n số g c ω thay đ i được
+vào hai đ u m t đoạn mạch g m điện trở, cu n cảm thu n c đ t cảm L và t điện c điện dung C
+m c nối tiếp         ường đ d ng điện hiệu d ng trong đoạn mạch c gi trị lớn nhất hi
+                2                           1                                           1
+   A.  L        .             B.  L        .      C. L  C .          D.  L       .
+               C                          2C                                         C
+Câu 368. ấu tạo c a m y ph t điện xoay chi u m t pha g m hai b phận ch nh là
+   A. ph n ng và cu n s cấp                           B. ph n cảm và ph n ng
+   C. ph n ng và cu n th cấp                   D. cu n s cấp và cu n th cấp
+Câu 369. ặt điện áp xoay chi u vào hai đ u đoạn mạch ch có t điện. So với điện áp giữa hai đ u
+đoạn mạch, cường đ d ng điện trong đoạn mạch
+                                                                                        
+  A. trễ pha      .            B. cùng pha.          C. ngược pha.         D. sớm pha      .
+                2                                                                        2
+Câu 370. ặt điện áp xoay chi u vào hai đ u đoạn mạch g m điện trở R, cu n cảm thu n c đ t cảm
+L nối tiếp thì cảm kháng c a đoạn mạch là ZL     lệch pha  c a điện áp giữa hai đ u đoạn mạch so
+với cường đ d ng điện trong đoạn mạch th a mãn công th c nào sau đây?
+               R                           L                     R                     ZL
+  A. tan       .             B. tan      .       C. tan       .      D. tan       .
+               L                           R                     ZL                    R
+
